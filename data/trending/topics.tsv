@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-11T10:37:55.279Z; n=40
-americans	sn:econ,sn:news	5.76	no	RISING
-entire	sn:bitcoin	3.89	yes	
-town	sn:bitcoin	3.89	yes	
-bitcoin	sn:bitcoin	3.89	yes	
-lodging	sn:BooksAndArticles	3.49	no	RISING
-wayfaring men book club	sn:BooksAndArticles	3.49	no	RISING
-chapter	sn:BooksAndArticles	3.49	no	RISING
-show	hn	3.4	yes	
-saturday newsletter	sn:meta	3.28	yes	
-prediction markets	sn:Politics_And_Law	3.2	no	RISING
-wisdom	sn:Politics_And_Law	3.2	no	RISING
-madness	sn:Politics_And_Law	3.2	no	RISING
-crowds	sn:Politics_And_Law	3.2	no	RISING
-michael mauboussin	sn:Politics_And_Law	3.2	no	RISING
-pool	sn:AskSN	3.16	no	RISING
-week	sn:AskSN	3.16	no	RISING
-you don	sn:Politics_And_Law	3.11	no	RISING
-hate	sn:Politics_And_Law	3.11	no	RISING
-boomers enough	sn:Politics_And_Law	3.11	no	RISING
-now they	sn:Politics_And_Law	3.11	no	RISING
-gaslighting us	sn:Politics_And_Law	3.11	no	RISING
-kadlec	sn:Politics_And_Law	3.11	no	RISING
-date	sn:family	3.08	no	RISING
-thinking	sn:Permaculture	3.07	no	RISING
-gozzip	sn:nostr	3.07	yes	
-mazda marv	sn:Stacker_Sports	3	no	RISING
-daily putt	sn:gaming	2.99	no	RISING
-play	sn:gaming	2.99	no	RISING
-putt	sn:gaming	2.99	no	RISING
-score	sn:gaming	2.99	no	RISING
-daily discussion thread	sn:Music	2.97	no	RISING
-music saloon	sn:Music	2.97	no	RISING
-great recess	sn:econ	2.93	no	RISING
-musicmap	sn:Music	2.91	no	RISING
-the genealogy	sn:Music	2.91	no	RISING
-history	sn:Music	2.91	no	RISING
-popular music genres	sn:Music	2.91	no	RISING
-racking	sn:HealthAndFitness	2.9	no	RISING
-home sales	sn:econ	2.87	no	RISING
-high	sn:econ	2.87	no	RISING
+# generated 2026-10-11T19:56:38.249Z; n=40
+free	hn,sn:BooksAndArticles	8.58	yes	
+nitter	hn,sn:Politics_And_Law	5.16	no	RISING
+update oct	hn,sn:Politics_And_Law	5.16	no	RISING
+open-source	hn,sn:AI	4.64	yes	
+creative commons	sn:BooksAndArticles	4.09	no	RISING
+bitcoin	sn:BooksAndArticles	4.09	yes	
+risks	sn:security	3.72	yes	
+phishing	sn:Scam_Reports	3.31	no	RISING
+coldcard	sn:Scam_Reports	3.31	no	RISING
+twitter	sn:Scam_Reports	3.31	no	RISING
+stackers	sn:HealthAndFitness	3.3	no	RISING
+will	sn:HealthAndFitness	3.3	no	RISING
+healthy	sn:HealthAndFitness	3.3	no	RISING
+funding	sn:HealthAndFitness	3.3	no	RISING
+secured	sn:HealthAndFitness	3.3	no	RISING
+year	sn:HealthAndFitness	3.3	no	RISING
+spectre	sn:Politics_And_Law	3.26	no	RISING
+haunting europe	sn:Politics_And_Law	3.26	no	RISING
+the spectre	sn:Politics_And_Law	3.26	no	RISING
+gov bond yields	sn:Politics_And_Law	3.26	no	RISING
+the economist	sn:Politics_And_Law	3.26	no	RISING
+you don	sn:Politics_And_Law	3.24	no	RISING
+hate	sn:Politics_And_Law	3.24	no	RISING
+boomers enough	sn:Politics_And_Law	3.24	no	RISING
+now they	sn:Politics_And_Law	3.24	no	RISING
+gaslighting us	sn:Politics_And_Law	3.24	no	RISING
+kadlec	sn:Politics_And_Law	3.24	no	RISING
+playoff points challenge	sn:Stacker_Sports	3.13	no	RISING
+current standings	sn:Stacker_Sports	3.13	no	RISING
+thinking	sn:Permaculture	3.12	no	RISING
+nordic	sn:Politics_And_Law	3.08	no	RISING
+laura hall	sn:Politics_And_Law	3.08	no	RISING
+workout	sn:AskSN	3.07	no	RISING
+nordic europooreans cope	sn:Politics_And_Law	3.06	no	RISING
+investing	sn:Politics_And_Law	3.06	no	RISING
+military	sn:Politics_And_Law	3.06	no	RISING
+autarky	sn:Politics_And_Law	3.06	no	RISING
+sunday	sn:Stacker_Sports	3.05	no	RISING
+discussion thread	sn:Stacker_Sports	3.05	no	RISING
+daily discussion thread	sn:Music	3.02	no	RISING
