@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-13T11:27:27.025Z; n=40
-bills	sn:Stacker_Sports	6.12	no	RISING
-show	hn	5.01	yes	
-rust	hn	3.82	yes	
-graphene	sn:tech	3.46	yes	
-fridges	sn:security	3.36	no	RISING
-french	sn:security	3.36	no	RISING
-printer	sn:DIY	3.3	no	RISING
-with asic chips	sn:DIY	3.3	no	RISING
-print bed	sn:DIY	3.3	no	RISING
-economics nobel goes	sn:econ	3.21	no	RISING
-economic forces	sn:econ	3.21	no	RISING
-brian albrecht	sn:econ	3.21	no	RISING
-capital	sn:bitcoin_Mining	3.21	no	RISING
-all just substitutable	sn:bitcoin_Mining	3.21	no	RISING
-bitcoin mining	sn:bitcoin_Mining	3.21	no	RISING
-osipovich	sn:bitcoin_Mining	3.21	no	RISING
-the genesis code	sn:BooksAndArticles	3.17	no	RISING
-transitory	sn:BooksAndArticles	3.17	no	RISING
-post hurricane photos	sn:art	3.17	no	RISING
-beach	sn:art	3.17	no	RISING
-looking	sn:bitcoin	3.16	yes	
-podcasts	sn:bitcoin	3.16	yes	
-sponsors	sn:bitcoin	3.16	yes	
-survivor pool	sn:Stacker_Sports	3.13	no	RISING
-week	sn:Stacker_Sports	3.13	no	RISING
-enhanced live activity feed	sn:Stacker_Sports	3.12	no	RISING
-predyx	sn:Stacker_Sports	3.12	no	RISING
+# generated 2026-10-13T21:00:18.509Z; n=40
+show	hn	7.58	yes	
+bills	sn:Stacker_Sports	6.34	no	RISING
+technology	sn:bitcoin,sn:Stacker_Stocks	5.3	yes	
+gemini	hn	5.03	yes	
+argon	hn	5.03	yes	
+apple	hn	4.82	no	RISING
+self-custodial	sn:bitcoin	3.7	yes	
+lightning	sn:bitcoin	3.7	yes	
+printer	sn:DIY	3.49	no	RISING
+with asic chips	sn:DIY	3.49	no	RISING
+print bed	sn:DIY	3.49	no	RISING
+last	sn:Stacker_Sports	3.44	no	RISING
+history	sn:bitcoin	3.42	yes	
+tracking your miners	sn:bitcoin_Mining	3.29	no	RISING
+most recycling	sn:Politics_And_Law	3.26	no	RISING
+dumb	sn:Politics_And_Law	3.26	no	RISING
+wasteful	sn:Politics_And_Law	3.26	no	RISING
+counterproductive	sn:Politics_And_Law	3.26	no	RISING
+bjorn lomborg	sn:Politics_And_Law	3.26	no	RISING
+rams	sn:Stacker_Sports	3.22	no	RISING
+my three takeaways	sn:Stacker_Sports	3.22	no	RISING
+satogram service is so back online	sn:lightning	3.2	no	RISING
+deirdre	sn:the_stacker_muse	3.16	no	RISING
+wants old liberalism back	sn:the_stacker_muse	3.16	no	RISING
+equality	sn:the_stacker_muse	3.16	no	RISING
+permission	sn:the_stacker_muse	3.16	no	RISING
 rams discussion thread	sn:Stacker_Sports	3.11	no	RISING
+survivor pool	sn:Stacker_Sports	3.09	no	RISING
+week	sn:Stacker_Sports	3.09	no	RISING
+sprout	sn:tech	3.08	yes	
+update	sn:bitcoin	3.08	yes	
+ledger donjon	sn:bitcoin	3.08	yes	
+why some people are mosquito magnets	sn:Animal_World	3.07	no	RISING
+not your blood	sn:Animal_World	3.07	no	RISING
 games	sn:Stacker_Sports	3.04	no	RISING
 predyx markets	sn:Stacker_Sports	3.04	no	RISING
-sprout	sn:tech	3.04	yes	
-rams	sn:Stacker_Sports	3.01	no	RISING
-my three takeaways	sn:Stacker_Sports	3.01	no	RISING
-nice start	sn:Photography	2.93	no	RISING
-new wellness routine	sn:Photography	2.93	no	RISING
-tech icons	sn:tech	2.91	yes	
-cliff stoll	sn:tech	2.91	yes	
-alex waltz	sn:bitcoin	2.9	yes	
-hardware wallets	sn:bitcoin	2.9	yes	
-daily putt	sn:gaming	2.87	no	RISING
+up only	sn:Politics_And_Law	3.04	no	RISING
+toronto food bank	sn:Politics_And_Law	3.04	no	RISING
+what america should learn	sn:Politics_And_Law	3.03	no	RISING
+sweden	sn:Politics_And_Law	3.03	no	RISING
