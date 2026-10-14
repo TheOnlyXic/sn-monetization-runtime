@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-14T14:54:15.956Z; n=40
-show	hn	6.7	yes	
-week	sn:Stacker_Sports,sn:AskSN	5.89	no	RISING
+# generated 2026-10-14T20:00:18.603Z; n=40
+show	hn	6.54	yes	
+week	sn:AskSN,sn:Stacker_Sports	5.9	no	RISING
 sats	sn:Stacker_Stocks	5.67	no	RISING
-open-source	hn	4.53	yes	
-self-custodial	sn:bitcoin	3.71	yes	
-lightning	sn:bitcoin	3.71	yes	
-history	sn:bitcoin	3.59	yes	
+what	sn:math,sn:meta	5.42	yes	
+open-source	hn	4.33	yes	
+milton friedman	sn:econ	3.51	no	RISING
+anniversary	sn:econ	3.51	no	RISING
+nobel prize	sn:econ	3.51	no	RISING
+arthur diamond	sn:econ	3.51	no	RISING
 clara shikhelman	sn:bitcoin	3.41	yes	
 elias rohrer	sn:bitcoin	3.41	yes	
 bitcoin optech newsletter	sn:bitcoin	3.41	yes	
 recap podcast	sn:bitcoin	3.41	yes	
-milton friedman	sn:econ	3.26	no	RISING
-anniversary	sn:econ	3.26	no	RISING
-nobel prize	sn:econ	3.26	no	RISING
-arthur diamond	sn:econ	3.26	no	RISING
-satogram service is so back online	sn:lightning	3.22	no	RISING
-gemini	hn	3.14	yes	
-argon	hn	3.14	yes	
-is braains pool independent	sn:bitcoin_Mining	3.13	no	RISING
-up only	sn:Politics_And_Law	3.12	no	RISING
-toronto food bank	sn:Politics_And_Law	3.12	no	RISING
-survivor pool	sn:Stacker_Sports	3.11	no	RISING
+is braains pool independent	sn:bitcoin_Mining	3.36	no	RISING
+hello	sn:art	3.31	no	RISING
+perry mehrling	sn:BooksAndArticles	3.23	no	RISING
+grand architect	sn:BooksAndArticles	3.23	no	RISING
+money view	sn:BooksAndArticles	3.23	no	RISING
+izabella kaminska	sn:BooksAndArticles	3.23	no	RISING
+agentic	sn:AI	3.11	yes	
+apps attacking antidiluvian	sn:AI	3.11	yes	
+apps	sn:AI	3.11	yes	
+anne boden	sn:AI	3.11	yes	
+using inflation	sn:Politics_And_Law	3.11	no	RISING
+release valve	sn:Politics_And_Law	3.11	no	RISING
+the icelandic case	sn:Politics_And_Law	3.11	no	RISING
+btchel	sn:Politics_And_Law	3.11	no	RISING
 bitcoin sports picks contests	sn:Stacker_Sports	3.1	no	RISING
 win sats	sn:Stacker_Sports	3.1	no	RISING
-wasabi wallet	sn:Coinjoins	3.07	no	RISING
-what america should learn	sn:Politics_And_Law	3.07	no	RISING
-sweden	sn:Politics_And_Law	3.07	no	RISING
-state ownership failure	sn:Politics_And_Law	3.07	no	RISING
-johan norberg	sn:Politics_And_Law	3.07	no	RISING
 trezor wallets also compromised	sn:bitcoin	3.07	yes	
 implants	sn:bitcoin	3.07	yes	
-hello	sn:art	3.03	no	RISING
+richard heart	sn:news	3.02	no	RISING
 working together	sn:bitcoin	3	yes	
 bitcoin	sn:bitcoin	3	yes	
 post-quantum readiness	sn:bitcoin	3	yes	
 pope leo	sn:news	2.99	no	RISING
 vatican	sn:news	2.99	no	RISING
-perry mehrling	sn:BooksAndArticles	2.99	no	RISING
-grand architect	sn:BooksAndArticles	2.99	no	RISING
-money view	sn:BooksAndArticles	2.99	no	RISING
+stackers	sn:AskSN	2.98	no	RISING
+pick	sn:Stacker_Sports	2.96	no	RISING
+pool	sn:AskSN	2.95	no	RISING
