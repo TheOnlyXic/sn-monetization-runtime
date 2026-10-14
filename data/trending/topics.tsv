@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-14T09:19:33.731Z; n=40
-show	hn	6.64	yes	
-technology	sn:bitcoin,sn:Stacker_Stocks	5.32	yes	
+# generated 2026-10-14T14:54:15.956Z; n=40
+show	hn	6.7	yes	
+week	sn:Stacker_Sports,sn:AskSN	5.89	no	RISING
+sats	sn:Stacker_Stocks	5.67	no	RISING
+open-source	hn	4.53	yes	
 self-custodial	sn:bitcoin	3.71	yes	
 lightning	sn:bitcoin	3.71	yes	
-history	sn:bitcoin	3.58	yes	
-last	sn:Stacker_Sports	3.44	no	RISING
-tracking your miners	sn:bitcoin_Mining	3.3	no	RISING
-most recycling	sn:Politics_And_Law	3.29	no	RISING
-dumb	sn:Politics_And_Law	3.29	no	RISING
-wasteful	sn:Politics_And_Law	3.29	no	RISING
-counterproductive	sn:Politics_And_Law	3.29	no	RISING
-bjorn lomborg	sn:Politics_And_Law	3.29	no	RISING
+history	sn:bitcoin	3.59	yes	
+clara shikhelman	sn:bitcoin	3.41	yes	
+elias rohrer	sn:bitcoin	3.41	yes	
+bitcoin optech newsletter	sn:bitcoin	3.41	yes	
+recap podcast	sn:bitcoin	3.41	yes	
+milton friedman	sn:econ	3.26	no	RISING
+anniversary	sn:econ	3.26	no	RISING
+nobel prize	sn:econ	3.26	no	RISING
+arthur diamond	sn:econ	3.26	no	RISING
 satogram service is so back online	sn:lightning	3.22	no	RISING
-deirdre	sn:the_stacker_muse	3.16	no	RISING
-wants old liberalism back	sn:the_stacker_muse	3.16	no	RISING
-equality	sn:the_stacker_muse	3.16	no	RISING
-permission	sn:the_stacker_muse	3.16	no	RISING
-gemini	hn	3.11	yes	
-argon	hn	3.11	yes	
+gemini	hn	3.14	yes	
+argon	hn	3.14	yes	
+is braains pool independent	sn:bitcoin_Mining	3.13	no	RISING
+up only	sn:Politics_And_Law	3.12	no	RISING
+toronto food bank	sn:Politics_And_Law	3.12	no	RISING
 survivor pool	sn:Stacker_Sports	3.11	no	RISING
-week	sn:Stacker_Sports	3.11	no	RISING
 bitcoin sports picks contests	sn:Stacker_Sports	3.1	no	RISING
 win sats	sn:Stacker_Sports	3.1	no	RISING
-the sheep that breaks your fantasy world	sn:charts_and_maps	3.08	no	RISING
-up only	sn:Politics_And_Law	3.08	no	RISING
-toronto food bank	sn:Politics_And_Law	3.08	no	RISING
-update	sn:bitcoin	3.08	yes	
-ledger donjon	sn:bitcoin	3.08	yes	
 wasabi wallet	sn:Coinjoins	3.07	no	RISING
-why some people are mosquito magnets	sn:Animal_World	3.07	no	RISING
-not your blood	sn:Animal_World	3.07	no	RISING
 what america should learn	sn:Politics_And_Law	3.07	no	RISING
 sweden	sn:Politics_And_Law	3.07	no	RISING
 state ownership failure	sn:Politics_And_Law	3.07	no	RISING
 johan norberg	sn:Politics_And_Law	3.07	no	RISING
-strive	sn:Stacker_Stocks	3.02	no	RISING
-the genesis code	sn:BooksAndArticles	3.01	no	RISING
-impacted	sn:BooksAndArticles	3.01	no	RISING
-like	sn:BooksAndArticles	3.01	no	RISING
-china	sn:charts_and_maps	3.01	no	RISING
+trezor wallets also compromised	sn:bitcoin	3.07	yes	
+implants	sn:bitcoin	3.07	yes	
+hello	sn:art	3.03	no	RISING
+working together	sn:bitcoin	3	yes	
+bitcoin	sn:bitcoin	3	yes	
+post-quantum readiness	sn:bitcoin	3	yes	
+pope leo	sn:news	2.99	no	RISING
+vatican	sn:news	2.99	no	RISING
+perry mehrling	sn:BooksAndArticles	2.99	no	RISING
+grand architect	sn:BooksAndArticles	2.99	no	RISING
+money view	sn:BooksAndArticles	2.99	no	RISING
