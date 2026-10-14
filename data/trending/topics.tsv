@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-14T00:54:19.049Z; n=40
-show	hn	7.13	yes	
-gemini	hn	5.26	yes	
-argon	hn	5.26	yes	
-apple	hn	5.07	no	RISING
+# generated 2026-10-14T09:19:33.731Z; n=40
+show	hn	6.64	yes	
+technology	sn:bitcoin,sn:Stacker_Stocks	5.32	yes	
 self-custodial	sn:bitcoin	3.71	yes	
 lightning	sn:bitcoin	3.71	yes	
+history	sn:bitcoin	3.58	yes	
 last	sn:Stacker_Sports	3.44	no	RISING
-history	sn:bitcoin	3.42	yes	
-tracking your miners	sn:bitcoin_Mining	3.29	no	RISING
-most recycling	sn:Politics_And_Law	3.26	no	RISING
-dumb	sn:Politics_And_Law	3.26	no	RISING
-wasteful	sn:Politics_And_Law	3.26	no	RISING
-counterproductive	sn:Politics_And_Law	3.26	no	RISING
-bjorn lomborg	sn:Politics_And_Law	3.26	no	RISING
-bills	sn:Stacker_Sports	3.22	no	RISING
-rams	sn:Stacker_Sports	3.22	no	RISING
-my three takeaways	sn:Stacker_Sports	3.22	no	RISING
+tracking your miners	sn:bitcoin_Mining	3.3	no	RISING
+most recycling	sn:Politics_And_Law	3.29	no	RISING
+dumb	sn:Politics_And_Law	3.29	no	RISING
+wasteful	sn:Politics_And_Law	3.29	no	RISING
+counterproductive	sn:Politics_And_Law	3.29	no	RISING
+bjorn lomborg	sn:Politics_And_Law	3.29	no	RISING
 satogram service is so back online	sn:lightning	3.22	no	RISING
 deirdre	sn:the_stacker_muse	3.16	no	RISING
 wants old liberalism back	sn:the_stacker_muse	3.16	no	RISING
 equality	sn:the_stacker_muse	3.16	no	RISING
 permission	sn:the_stacker_muse	3.16	no	RISING
+gemini	hn	3.11	yes	
+argon	hn	3.11	yes	
 survivor pool	sn:Stacker_Sports	3.11	no	RISING
 week	sn:Stacker_Sports	3.11	no	RISING
 bitcoin sports picks contests	sn:Stacker_Sports	3.1	no	RISING
 win sats	sn:Stacker_Sports	3.1	no	RISING
-sprout	sn:tech	3.08	yes	
+the sheep that breaks your fantasy world	sn:charts_and_maps	3.08	no	RISING
+up only	sn:Politics_And_Law	3.08	no	RISING
+toronto food bank	sn:Politics_And_Law	3.08	no	RISING
 update	sn:bitcoin	3.08	yes	
 ledger donjon	sn:bitcoin	3.08	yes	
+wasabi wallet	sn:Coinjoins	3.07	no	RISING
 why some people are mosquito magnets	sn:Animal_World	3.07	no	RISING
 not your blood	sn:Animal_World	3.07	no	RISING
-up only	sn:Politics_And_Law	3.07	no	RISING
-toronto food bank	sn:Politics_And_Law	3.07	no	RISING
 what america should learn	sn:Politics_And_Law	3.07	no	RISING
 sweden	sn:Politics_And_Law	3.07	no	RISING
 state ownership failure	sn:Politics_And_Law	3.07	no	RISING
 johan norberg	sn:Politics_And_Law	3.07	no	RISING
-the sheep that breaks your fantasy world	sn:charts_and_maps	3.04	no	RISING
-wasabi wallet	sn:Coinjoins	3.03	no	RISING
-strive	sn:Stacker_Stocks	3.01	no	RISING
+strive	sn:Stacker_Stocks	3.02	no	RISING
+the genesis code	sn:BooksAndArticles	3.01	no	RISING
+impacted	sn:BooksAndArticles	3.01	no	RISING
+like	sn:BooksAndArticles	3.01	no	RISING
+china	sn:charts_and_maps	3.01	no	RISING
