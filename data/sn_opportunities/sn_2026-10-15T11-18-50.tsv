@@ -1,0 +1,73 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1595706	bitcoin	1	1068	0	0	4.3	185956	182	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Roots is the real Bitcoin Knots (pre-BIP110)
+1595702	Construction_and_Engineering	2	634	0	1	4.5	1022234	628	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 10/13-14/26
+1595584	math	2	258	0	1	10.7	9274	28556	recent@math|top@math	SIGNAL	Xikipedia History: Daniel Bernoulli the Father of Fluid Mechanics
+1595549	AI	1	203	0	0	11.8	1575305	31	recent@AI|top@AI	SIGNAL	OpenAI's Navier-Stokes Lean proof checks out, just not the proof it claimed
+1595651	security	1	136	0	1	7.4	297791	7938	recent@security|top@security	SIGNAL	Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s CODE App
+1595731	Education	2	136	0	0	1.6	104755	13410	recent@Education|top@Education	FRESH,SIGNAL	How to score for a listening compre exam
+1595072	econ	2	4535	0	70	23.6	724606	13445	recent@econ|top@econ	HOT	Milton Friedman's 50th Anniversary of Nobel Prize (WSJ, Arthur Diamond)
+1595106	bitcoin_Mining	1	4139	0	29	22.5	30782	26041	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Is Braains Pool Independent?
+1595023	bitcoin	1	2569	0	1	27.8	1014665	245	recent@bitcoin|recent@lightning	HOT	Clara Shikhelman, Elias Rohrer - Bitcoin Optech Newsletter #426 Recap Podcast
+1595458	bitcoin	1	2069	0	5	13.2	24585	376	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Latest Strikes 38 to 41 - September 14th - October 11th - We're so back
+1595092	BooksAndArticles	2	1679	0	1	22.8	724606	13445	recent@econ|top@econ	HOT	RIP Perry Mehrling, the Grand Architect of the Money View (Izabella Kaminska)
+1595179	AI	1	1349	0	3	20.4	724606	13445	recent@AI|top@AI|recent@econ	HOT	Agentic AI Apps Attacking Antidiluvian (B)anking Apps (FT, Anne Boden)
+1595169	Politics_And_Law	3	1335	0	2	20.6	724606	13445	recent@econ|top@econ	HOT	Using Inflation as the Release Valve: The Icelandic Case (BTCHEL, JB)
+1595346	Politics_And_Law	3	1298	0	10	16.6	30782	26041	recent@econ|top@econ	HOT,SELF_POST_OPP	How high inflation became a 'fact of life' in the U.S.
+1595117	bitcoin	1	1173	0	3	22.1	182278	596	recent@bitcoin|top@bitcoin	HOT	Trezor Wallets Also Compromised with Implants
+1595371	BooksAndArticles	2	1097	0	0	15.9	724606	13445	recent@econ|top@econ	HOT	Nordic Node #12: Heatpunkery, Grids, and Iceland's Stunningly Backward Economy
+1595308	lightning	1	1078	0	4	17.5	440729	323	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (02347c5be8ab0730b…)
+1594996	bitcoin	1	998	0	0	31.1	74100	13227	recent@bitcoin		Working Together on Bitcoin’s Post-Quantum Readiness
+1595276	math	2	924	0	11	18.3	88988	48804	recent@math|top@math	SELF_POST_OPP	What premium do the Dodgers deserve?
+1594958	bitcoin	1	759	0	0	34.5	593189	881	recent@bitcoin		SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto
+1595003	security	1	630	0	1	29.8	68821	2338	recent@security|recent@AI		OpenAI Employee Arrested for Planting Hidden Recorder in Conference Room
+1595223	bitcoin_Mining	1	550	0	2	19.7	1028548	649	recent@bitcoin_Mining|top@bitcoin_Mining		OCEAN pool over 40 EH/s
+1595032	DIY	3	417	0	2	26.0	213009	184	recent@devs		A code reviewer for coding agents
+1594923	bitcoin	1	377	0	1	35.7	1556502	11	recent@bitcoin|recent@bitcoin_beginners|recent@bitdevs		The modern bitcoin faucet gets its first event
+1595118	econ	2	373	0	0	22.1	402772	22705	recent@econ|top@econ		US Inflation rose at 3.7% annual rate in September as gas costs skyrocket
+1595164	Politics_And_Law	3	370	0	2	20.8	401865	8676	recent@econ|top@econ		Electric Big Rigs Struggle to Compete, Even With Diesel at $8 a Gallon
+1595332	bitcoin	1	348	0	1	16.9	296825	5620	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Kraken owner to buy European bank
+1595132	DIY	3	332	0	0	21.6	280679	23788	recent@AI|top@AI		Testing Oneself For AI Slop
+1595088	AI	1	331	0	0	23.0	297791	7938	recent@devs|top@devs|recent@AI		Anthropic reinvents source control as Claude floods the world with code
+1595184	meta	1	307	0	5	20.3	36151	1672	recent@meta|top@meta		What are you working on this week?
+1595057	Stacker_Stocks	2	288	0	1	24.4	280679	23788	recent@econ		Same Google, but cheaper: a risk worth taking in US credit
+1595046	charts_and_maps	2	267	0	0	24.9	280679	23788	recent@econ		Restoring Free Enterprise
+1594932	security	1	251	0	0	35.2	1321152	66	recent@security|recent@Construction_and_Engineering		This is Ledger's production chain:
+1595275	AI	1	247	0	8	18.3	792262	1816	recent@AI|top@AI|recent@science		How much longer will you be able to work as a language translator or interpreter
+1594971	bitcoin	1	211	0	0	33.0	402772	22705	recent@bitdevs		Introducing Zark — offchain transfer protocol that uses zero-knowledge proofs
+1595123	charts_and_maps	2	200	0	5	21.9	984933	2841	recent@econ|top@econ	SELF_POST_OPP	Brazil has one map
+1595147	charts_and_maps	2	196	0	0	21.3	458256	5023	recent@econ|top@econ		Countries That Owe the Most Money to the IMF
+1595136	family	3	158	0	1	21.5	272410	1901	recent@AI|top@AI		OpenAI Sued for Allegedly Training Models on Kids' "Fears, Hopes, and Secrets"
+1595307	math	2	156	0	0	17.6	272410	1901	recent@math|top@math		What’s A Nonius?
+1595242	Construction_and_Engineering	2	132	0	0	19.3	402772	22705	recent@Construction_and_Engineering|top@Construction_and_Engineering		World's oldest shipwreck found off Kekova Island in Turkey
+1595370	bitcoin	1	130	0	0	16.0	1594874	5	recent@bitcoin_beginners|top@bitcoin_beginners|recent@Education		Bitcoin fees in sat/vB: calculate the total before you send
+1595041	meta	1	109	0	0	25.3	36151	1672	recent@meta		This Day on SN: October 14
+1595264	lol	2	104	0	2	18.6	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		What if the internet is shutdown...
+1595296	AI	1	101	0	0	17.9	1575305	31	recent@AI|top@AI		AI weights can hide a SHA-3 locked mini model that fine-tuning can't crack
+1595286	bitcoin	1	91	0	0	18.1	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		Ledger implants. Coldcard entropy bugs. Fake wallet apps.
+1595542	BooksAndArticles	2	77	0	0	12.0	88718	48880	recent@econ|top@econ		Why your Steppe Empire can not exist
+1594964	econ	2	77	0	0	34.2	1594874	5	recent@econ		CPI and PPI measure different prices: how to read an inflation release
+1595126	bitcoin	1	72	0	0	21.8	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		What does each safety and security setup protects you from?
+1595342	bitcoin_beginners	1	57	0	0	16.7	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		Liquidity Lightning Load Leveler
+1595630	security	1	50	0	1	8.5	297791	7938	recent@security|top@security		Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
+1595700	bitcoin	1	36	0	0	5.0	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners|recent@econ		The Cost of Doing Business
+1595693	bitcoin	1	36	0	0	5.3	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		Bisq Release v2.1.14
+1595694	bitcoin_beginners	1	36	0	0	5.2	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		Ledger can pass authenticity check while an implant leaks your recovery seed
+1595383	bitcoin	1	36	0	0	15.5	1594874	5	recent@bitcoin_beginners|top@bitcoin_beginners|recent@Education		Bitcoin CPFP: calculate the combined fee before bumping a payment
+1595298	bitcoin	1	36	0	0	17.9	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		Built this to help you check your hardware wallet for signs of tampering
+1595280	bitcoin	1	36	0	2	18.3	296825	5620	recent@bitcoin_beginners|top@bitcoin_beginners		Jack explains why hardware wallets are riskier than you think
+1595007	bitcoin_beginners	1	36	0	0	29.1	296825	5620	recent@bitcoin_beginners		Seed Tool: Learn how wallets are generated using different sources of entropy
+1595128	Politics_And_Law	3	36	0	0	21.8	280679	23788	recent@econ|top@econ		Universal childcare is set to be a 2028 presidential test
+1595145	security	1	31	0	0	21.3	272410	1901	recent@security|top@security		Hackers fry France's supermarket fridges, tens of millions lost in a night
+1595634	Design	2	28	0	4	8.2	1010485	25	recent@devs|top@devs		barux: a configurable Touch Bar daemon for Asahi Linux
+1594982	bitcoin	1	11	0	0	32.5	1532836	1308	recent@bitcoin_Mining		A new helper joins the Mostro 🧌 dispute team: Serbero ⚡
+1595161	AI	1	11	0	2	21.0	1532699	416	recent@AI|top@AI|recent@Construction_and_Engineering		A Startup Wants to Make Manufacturing as Easy as Writing Code
+1595122	AI	1	11	0	0	22.0	280679	23788	recent@AI|top@AI		When LLM Gateways Go Wrong: Findings from LiteLLM
+1595004	AI	1	11	0	0	29.8	395	307	recent@AI		OpenAI engineer arrested in bugging of executive conference room
+1594921	AI	1	11	0	0	35.7	1575305	31	recent@AI		Gemini 4 Argon teaches Spot to trash cans after MuJoCo practice
+1595659	bitcoin	1	0	0	0	7.2	1532836	1308	recent@bitcoin_Mining|top@bitcoin_Mining		I bought my hashrate on 👉 rigly.io right after a 🐳
+1595626	bitcoin	1	0	0	0	9.0	1532836	1308	recent@bitcoin_Mining|top@bitcoin_Mining|recent@bitcoinplusplus		POW Rigly Blockparty #44
+1595086	devs	1	0	0	0	23.0	280679	23788	recent@devs|top@devs		Python 3.15 goes global with UTF-8 support
+1595158	science	2	0	0	0	21.0	280679	23788	recent@science|top@science		Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t
+1595652	Politics_And_Law	3	0	0	1	7.3	642641	9570	recent@econ|top@econ|recent@Construction_and_Engineering		The Houthis Are Building an Advanced Missile With Chinese Parts
+1595240	podcasts	2	0	0	0	19.3	1054143	1424	recent@econ|top@econ		Why the French Revolution was a financial revolution - Part 1
+1595268	Construction_and_Engineering	2	0	0	0	18.4	280679	23788	recent@Construction_and_Engineering|top@Construction_and_Engineering		Will Greece’s First Skyscraper Ruin Athens? | The B1M
