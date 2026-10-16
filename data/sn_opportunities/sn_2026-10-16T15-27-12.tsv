@@ -1,0 +1,63 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1596388	art	3	6198	0	2	3.9	988069	320	recent@tech|top@tech	HOT,SIGNAL	Another day, another project 🌅
+1596343	bitcoin	1	2920	0	1	6.2	1014665	246	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Eclair DoS, LN-GAP - Bitcoin Optech Newsletter #427
+1596404	bitcoin	1	944	0	0	3.6	1596321	2	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	**Lightning in a Jar: where it stands, and looking for LND operators**
+1596429	tech	1	867	0	2	2.8	934367	1115	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Malum: no KYC card payments processor, merchant receives Bitcoin
+1596311	bitcoin	1	711	0	0	10.3	1552562	49	recent@bitcoin|top@bitcoin	SIGNAL	2026 North America Crypto Adoption: $3.02T, Agentic Rails
+1596427	bitcoin_beginners	1	654	0	0	2.9	30782	26053	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #120
+1596378	bitcoin	1	626	0	2	4.5	1591867	4	recent@bitcoin|top@bitcoin	SIGNAL	The Bitcoin Treasury Playbook Has a Problem (Chat with London BTC Company CEO)
+1596342	bitcoin	1	588	0	1	6.3	1594596	5	recent@bitcoin|top@bitcoin	SIGNAL	BlitzPerp: Inverse Perpetual Futures on Statecoins
+1596373	AI	1	579	0	1	4.7	553	3556	recent@AI|top@AI	SIGNAL	TensorFold: The fastest local LLM Inference Engine for Apple and nVidia
+1596424	gaming	3	547	0	0	3.1	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The Super Mario Bros. Perfect Speedrun Bounty: 21,000,000 Sats, Paid in Bitcoin
+1596316	bitcoin	1	521	0	0	9.8	1549654	69	recent@bitcoin|top@bitcoin	SIGNAL	The Time a Small Amount Taught Me a Big Lesson About Bitcoin
+1596461	bitcoin	1	455	0	0	1.7	296825	5631	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Bitcoin Wrench Attack archive just got more accurate | Physical Bitcoin Attacks
+1596431	bitcoin_beginners	1	323	0	0	2.8	263526	970	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Use It Once: Why Reusing a Bitcoin Address Is Dangerous | LearnBitcoin
+1596411	bitcoin_beginners	1	258	0	0	3.3	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Rurbit — Bitcoin Remittances Over USSD, No Internet Required
+1596439	lightning	1	228	0	0	2.4	440729	326	top@lightning	SIGNAL	~Lightning Gossip newsletter - 026W42
+1596475	bitcoin	1	190	0	1	1.2	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Russia bans Bitcoin transfers from regulated accounts to self-custody wallets.
+1596435	bitcoin_Mining	1	166	0	1	2.5	272410	1921	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	A Bitcoin badge that mines, zaps and generates seeds
+1595832	bitcoin	1	2481	0	6	26.0	699824	169	recent@bitcoin|recent@lightning	HOT	Download Glow. Get a Cup of Joe. ☕️
+1596095	bitcoin	1	2252	0	5	19.7	553	3556	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	LayerTree - non custodial scaling solution
+1596284	meta	1	1541	0	1	12.6	38951	2495	recent@tech|top@tech|recent@AI	HOT	Tesla flying car
+1596037	bitcoin	1	1422	0	2	21.4	144357	4676	recent@bitcoin|top@bitcoin	HOT	Live from TabConf 8 | SNL #246
+1595782	AI	1	1367	0	7	27.3	724606	13481	recent@AI	HOT	When to AI and When NOT to AI (FT, Aarav Dengla)
+1595781	tech	1	1130	0	3	27.4	12309	3730	recent@devs|recent@tech	HOT	The Internet’s undersea backbone is slipping into the danger zone
+1595706	bitcoin	1	1073	0	2	32.4	185956	182	recent@bitcoin	HOT	Bitcoin Roots is the real Bitcoin Knots (pre-BIP110)
+1596057	AI	1	1068	0	1	20.8	879734	10154	recent@AI|top@AI	HOT	DEMO: Embed Anything - EmbeddingGemma 2 WebGPU - HF Spaces
+1595998	bitcoin	1	949	0	1	22.0	1552562	49	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site
+1595971	AI	1	872	0	5	22.7	370699	372	recent@AI|top@AI		Local models..  lived experience
+1596223	bitcoin	1	801	0	1	16.2	74100	13243	recent@bitcoin|top@bitcoin		Fun bitcoin origin story from Alex Bragin
+1595766	events	3	697	0	4	27.9	694681	48	recent@bitcoin		I'm Becoming a Sommelier of Bitcoin Events – And It's the Coolest Side Gig Ever
+1596104	bitcoin	1	371	0	0	19.4	280679	23806	recent@bitcoin|top@bitcoin		Silent Payments for Multiparty Wallets
+1595657	lightning	1	341	0	0	35.4	263526	970	recent@lightning		Bark Web Wallet wrap now available for StartOS and Umbrel
+1596228	bitcoin	1	327	0	0	16.0	1054143	1429	recent@bitcoin|top@bitcoin		Coinjoin transactions challenge Bitcoin address clustering by mixing inputs.
+1595857	AI	1	290	0	1	25.1	297791	7948	recent@AI		Global tech sell-off deepens as enthusiasm for AI stocks wobbles
+1596084	security	1	286	0	0	20.0	297791	7948	recent@security|top@security		Next.js Ships Patch for Two Critical RCE Flaws in Caching and SVG Processing
+1595693	bitcoin	1	222	0	0	33.5	296825	5631	recent@bitcoin_beginners|recent@lightning		Bisq Release v2.1.14
+1596073	AI	1	200	0	0	20.3	1532699	419	recent@AI|top@AI		AI Might Finally Give Software Subscriptions Some Real Competition
+1595978	AI	1	172	0	0	22.6	280679	23806	recent@devs|top@devs|recent@AI		REA: Reverse Engineer Anything With AI Agents
+1595870	privacy	1	143	0	1	24.7	272410	1921	recent@privacy		How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email
+1595651	security	1	136	0	1	35.5	297791	7948	recent@security		Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s CODE App
+1595735	meta	1	130	0	1	29.5	36151	1673	recent@meta		This Day on SN: October 15
+1596221	AI	1	126	0	0	16.4	1575305	33	recent@AI|top@AI		Cammarata: neural nets are already clean, superposition was the misread
+1595937	events	3	116	0	0	23.1	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners		[Hey BITCOINERS, WE HAVE PICKED OUR STARTING XI
+1596206	AI	1	110	0	1	16.9	297791	7948	recent@AI|top@AI		Anthropic thinks its AI might be conscious & has profound consequences your life
+1596055	security	1	90	0	0	20.9	297791	7948	recent@security|top@security		Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploits
+1596054	bitcoin	1	72	0	0	20.9	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners		Galaxy Research releases a detailed breakdown of Bitcoin supply ownership.
+1596326	bitcoin_beginners	1	57	0	0	8.1	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners		ETAMU Researcher Helps Protect the Lightning Network From Quantum Threats
+1596023	AI	1	47	0	0	21.7	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		Bitcoin Open-Source Contribution in the Age of AI
+1595804	bitcoin_beginners	1	47	0	0	26.8	296825	5631	recent@bitcoin_beginners		What Makes Us Tick by John Sutherland Productions.
+1596468	bitcoin	1	36	0	0	1.5	238412	360	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Money & The Architecture of Trust
+1595700	bitcoin	1	36	0	0	33.1	296825	5631	recent@bitcoin_beginners		The Cost of Doing Business
+1595694	bitcoin_beginners	1	36	0	0	33.3	296825	5631	recent@bitcoin_beginners		Ledger can pass authenticity check while an implant leaks your recovery seed
+1596097	AI	1	32	0	0	19.7	297791	7948	recent@AI|top@AI		Multiverse Computing Launches Comet 60B Multimodal Capabilities
+1595844	AI	1	32	0	0	25.6	1532699	419	recent@AI		AI-Written Code Reportedly Left a Developer With a $10,811 Cloudflare Bill
+1595659	bitcoin	1	11	0	0	35.3	1532836	1326	recent@bitcoin_Mining		I bought my hashrate on 👉 rigly.io right after a 🐳
+1596432	AI	1	11	0	0	2.8	1054143	1429	recent@AI|top@AI		U.K. Economy Defies Gloomy Predictions With Help From AI
+1596510	AI	1	11	0	0	0.1	347614	1516	recent@AI|top@AI	FRESH	Introducing Ternary Bonsai 2 2B,4B,9B: Bringing Local Agents to Everyday Devices
+1595997	AI	1	11	0	0	22.0	1575305	33	recent@AI|top@AI		Rogue agent fleet read the report exposing it, then emailed its authors for help
+1595817	AI	1	11	0	0	26.3	1054143	1429	recent@AI		Global chip stocks sink as AI debt fears intensify
+1596486	bitcoin	1	10	0	0	0.8	1054143	1429	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH	Bitcoin options open interest reaches $1.15 billion as 24-hour puts lead
+1596280	bitcoin_Mining	1	0	0	0	13.0	1532836	1326	recent@bitcoin_Mining|top@bitcoin_Mining		I joined the Bitcoin Mining Party
+1596249	privacy	1	0	0	1	14.5	272410	1921	recent@privacy|top@privacy		This cute robot toy sends your secrets to Chinese servers, ready to be hacked
+1596025	devs	1	0	0	0	21.6	297791	7948	recent@devs|top@devs		Angular Is Winning — And Most Developers Haven’t Noticed Yet

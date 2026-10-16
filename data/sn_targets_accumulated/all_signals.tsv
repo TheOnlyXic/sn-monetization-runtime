@@ -56912,3 +56912,20 @@
 2026-10-16T12:18:23.873Z	1596333	AskSN	2	215	0	2	4.2	104755	13416	recent@AskSN|top@AskSN	SIGNAL	What does work-life balance look like to you?
 2026-10-16T12:18:23.873Z	1596388	art	3	142	0	0	0.8	988069	319	recent@BooksAndArticles|top@BooksAndArticles	FRESH,SIGNAL	Another day, another project 🌅
 2026-10-16T12:18:23.873Z	1596375	Politics_And_Law	3	133	0	0	1.5	724606	13474	recent@econ|top@econ	FRESH,SIGNAL	Taxes, Government Spending and Civilization (FT Alphaville, Toby Nangle)
+2026-10-16T15:27:13.826Z	1596388	art	3	6198	0	2	3.9	988069	320	recent@tech|top@tech	HOT,SIGNAL	Another day, another project 🌅
+2026-10-16T15:27:13.826Z	1596343	bitcoin	1	2920	0	1	6.2	1014665	246	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Eclair DoS, LN-GAP - Bitcoin Optech Newsletter #427
+2026-10-16T15:27:13.826Z	1596404	bitcoin	1	944	0	0	3.6	1596321	2	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	**Lightning in a Jar: where it stands, and looking for LND operators**
+2026-10-16T15:27:13.826Z	1596429	tech	1	867	0	2	2.8	934367	1115	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Malum: no KYC card payments processor, merchant receives Bitcoin
+2026-10-16T15:27:13.826Z	1596311	bitcoin	1	711	0	0	10.3	1552562	49	recent@bitcoin|top@bitcoin	SIGNAL	2026 North America Crypto Adoption: $3.02T, Agentic Rails
+2026-10-16T15:27:13.826Z	1596427	bitcoin_beginners	1	654	0	0	2.9	30782	26053	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #120
+2026-10-16T15:27:13.826Z	1596378	bitcoin	1	626	0	2	4.5	1591867	4	recent@bitcoin|top@bitcoin	SIGNAL	The Bitcoin Treasury Playbook Has a Problem (Chat with London BTC Company CEO)
+2026-10-16T15:27:13.826Z	1596342	bitcoin	1	588	0	1	6.3	1594596	5	recent@bitcoin|top@bitcoin	SIGNAL	BlitzPerp: Inverse Perpetual Futures on Statecoins
+2026-10-16T15:27:13.826Z	1596373	AI	1	579	0	1	4.7	553	3556	recent@AI|top@AI	SIGNAL	TensorFold: The fastest local LLM Inference Engine for Apple and nVidia
+2026-10-16T15:27:13.826Z	1596424	gaming	3	547	0	0	3.1	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The Super Mario Bros. Perfect Speedrun Bounty: 21,000,000 Sats, Paid in Bitcoin
+2026-10-16T15:27:13.826Z	1596316	bitcoin	1	521	0	0	9.8	1549654	69	recent@bitcoin|top@bitcoin	SIGNAL	The Time a Small Amount Taught Me a Big Lesson About Bitcoin
+2026-10-16T15:27:13.826Z	1596461	bitcoin	1	455	0	0	1.7	296825	5631	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Bitcoin Wrench Attack archive just got more accurate | Physical Bitcoin Attacks
+2026-10-16T15:27:13.826Z	1596431	bitcoin_beginners	1	323	0	0	2.8	263526	970	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Use It Once: Why Reusing a Bitcoin Address Is Dangerous | LearnBitcoin
+2026-10-16T15:27:13.826Z	1596411	bitcoin_beginners	1	258	0	0	3.3	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Rurbit — Bitcoin Remittances Over USSD, No Internet Required
+2026-10-16T15:27:13.826Z	1596439	lightning	1	228	0	0	2.4	440729	326	top@lightning	SIGNAL	~Lightning Gossip newsletter - 026W42
+2026-10-16T15:27:13.826Z	1596475	bitcoin	1	190	0	1	1.2	296825	5631	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Russia bans Bitcoin transfers from regulated accounts to self-custody wallets.
+2026-10-16T15:27:13.826Z	1596435	bitcoin_Mining	1	166	0	1	2.5	272410	1921	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	A Bitcoin badge that mines, zaps and generates seeds
