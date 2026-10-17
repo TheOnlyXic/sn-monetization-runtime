@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-17T08:17:39.661Z; n=40
-claude	hn,sn:math	8.25	yes	
-ecdsa	hn,sn:math	6.11	yes	
-apple	hn,sn:AI	5.34	yes	
+# generated 2026-10-17T13:28:30.448Z; n=40
+claude	hn,sn:math	8.34	yes	
+flash	hn	7.39	no	RISING
+ecdsa	hn,sn:math	6.15	yes	
 sword	sn:DIY	4.9	yes	
 home mining	sn:DIY	4.9	yes	
 high hashrate home mining	sn:DIY	4.9	yes	
-show	hn	4.03	yes	
-another	sn:art	3.81	yes	
+show	hn	4.48	yes	
 blok	sn:food_and_drinks	3.63	no	RISING
 chomps	sn:food_and_drinks	3.63	no	RISING
 tabconf	sn:food_and_drinks	3.63	no	RISING
-eclair	sn:bitcoin	3.47	yes	
-bitcoin optech newsletter	sn:bitcoin	3.47	yes	
-brings tor bitcoin mining	sn:bitcoin_beginners	3.28	no	RISING
-hourly ark payouts	sn:bitcoin_beginners	3.28	yes	
+brings tor bitcoin mining	sn:bitcoin_beginners	3.29	no	RISING
+hourly ark payouts	sn:bitcoin_beginners	3.29	yes	
 the economics	sn:AI	3.28	yes	
 heartfelt stories	sn:AI	3.28	yes	
 free money helping people	sn:AI	3.28	yes	
 times	sn:AI	3.28	yes	
-you walk your	sn:HealthAndFitness	3.19	no	RISING
-before lunch	sn:HealthAndFitness	3.19	no	RISING
-anon	sn:HealthAndFitness	3.19	no	RISING
-the economist	sn:HealthAndFitness	3.19	no	RISING
+tesla roadster	hn	3.18	no	RISING
 anthropic	sn:math	3.18	yes	
 you just	sn:AI	3.16	yes	
 love	sn:AI	3.16	yes	
 agentic bank runs	sn:AI	3.16	yes	
 ben glickman	sn:AI	3.16	yes	
 sunday leaders bounty	sn:gaming	3.16	no	RISING
-tesla roadster	hn	3.15	no	RISING
-canada	sn:Politics_And_Law	3.14	no	RISING
-cleveland cliffs	sn:Politics_And_Law	3.14	no	RISING
-canadian	sn:Politics_And_Law	3.14	no	RISING
-taxes	sn:Politics_And_Law	3.02	no	RISING
-government spending	sn:Politics_And_Law	3.02	no	RISING
-civilization	sn:Politics_And_Law	3.02	no	RISING
-alphaville	sn:Politics_And_Law	3.02	no	RISING
-toby nangle	sn:Politics_And_Law	3.02	no	RISING
+canada	sn:Politics_And_Law	3.15	no	RISING
+cleveland cliffs	sn:Politics_And_Law	3.15	no	RISING
+canadian	sn:Politics_And_Law	3.15	no	RISING
 disposing of	sn:Permaculture	3.02	no	RISING
 and why composting is not an option	sn:Permaculture	3.02	no	RISING
+sportsbooks	sn:Stacker_Sports	3.01	no	RISING
+introducing	sn:tech	2.99	yes	
+cuba sanctions hub	sn:tech	2.99	yes	
+street	sn:Photography	2.98	no	RISING
+update	sn:Politics_And_Law	2.95	no	RISING
+shes	sn:Politics_And_Law	2.95	no	RISING
+gone	sn:Politics_And_Law	2.95	no	RISING
+trump gives new white house press secretary option	sn:Politics_And_Law	2.95	no	RISING
+quit	sn:Politics_And_Law	2.95	no	RISING
+books	sn:BooksAndArticles	2.94	no	RISING
+articles weekly	sn:BooksAndArticles	2.94	no	RISING
+weekly random sports pick	sn:Stacker_Sports	2.92	no	RISING
