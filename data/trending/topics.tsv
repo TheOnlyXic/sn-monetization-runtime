@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-16T19:21:42.395Z; n=40
-tesla roadster	hn,sn:Stacker_Stocks	6.07	no	RISING
+# generated 2026-10-17T00:09:57.749Z; n=40
+claude	hn,sn:math	7.88	yes	
+tesla roadster	hn,sn:Stacker_Stocks	6.31	no	RISING
+ecdsa	hn,sn:math	5.94	yes	
+anthropic	hn,sn:math	5.46	yes	
 sword	sn:DIY	4.9	yes	
 home mining	sn:DIY	4.9	yes	
 high hashrate home mining	sn:DIY	4.9	yes	
-claude	hn	4.35	no	RISING
+show	hn	4.02	yes	
+what	hn	4.01	yes	
 another	sn:art	3.81	yes	
-show	hn	3.74	yes	
 eclair	sn:bitcoin	3.47	yes	
 bitcoin optech newsletter	sn:bitcoin	3.47	yes	
-the economics	sn:AI	3.27	yes	
-heartfelt stories	sn:AI	3.27	yes	
-free money helping people	sn:AI	3.27	yes	
-times	sn:AI	3.27	yes	
+the economics	sn:AI	3.28	yes	
+heartfelt stories	sn:AI	3.28	yes	
+free money helping people	sn:AI	3.28	yes	
+times	sn:AI	3.28	yes	
+brings tor bitcoin mining	sn:bitcoin_beginners	3.24	no	RISING
+hourly ark payouts	sn:bitcoin_beginners	3.24	yes	
+you can see everything	sn:movies	3.2	no	RISING
+review	sn:movies	3.2	no	RISING
 tesla	sn:meta	3.19	yes	
 you walk your	sn:HealthAndFitness	3.19	no	RISING
 before lunch	sn:HealthAndFitness	3.19	no	RISING
 anon	sn:HealthAndFitness	3.19	no	RISING
 the economist	sn:HealthAndFitness	3.19	no	RISING
-you can see everything	sn:movies	3.17	no	RISING
-review	sn:movies	3.17	no	RISING
-bets	sn:Stacker_Sports	3.13	no	RISING
-sabres	sn:Stacker_Sports	3.13	no	RISING
-toronto maple leafs	sn:Stacker_Sports	3.13	no	RISING
-still no captain game	sn:Stacker_Sports	3.13	no	RISING
-you just	sn:AI	3.11	yes	
-love	sn:AI	3.11	yes	
-agentic bank runs	sn:AI	3.11	yes	
-ben glickman	sn:AI	3.11	yes	
-pool	sn:AskSN	3.11	no	RISING
-week	sn:AskSN	3.11	no	RISING
-recap	sn:AskSN	3.11	no	RISING
+you just	sn:AI	3.15	yes	
+love	sn:AI	3.15	yes	
+agentic bank runs	sn:AI	3.15	yes	
+ben glickman	sn:AI	3.15	yes	
+canada	sn:Politics_And_Law	3.1	no	RISING
+cleveland cliffs	sn:Politics_And_Law	3.1	no	RISING
+canadian	sn:Politics_And_Law	3.1	no	RISING
+blok	sn:food_and_drinks	3.1	no	RISING
+chomps	sn:food_and_drinks	3.1	no	RISING
+tabconf	sn:food_and_drinks	3.1	no	RISING
 sunday leaders bounty	sn:gaming	3.08	no	RISING
 financial education	sn:Stacker_Stocks	3.08	no	RISING
 jeremy	sn:Stacker_Stocks	3.08	no	RISING
 bitcoin update	sn:Stacker_Stocks	3.08	no	RISING
 north america crypto adoption	sn:bitcoin	3.08	yes	
-agentic rails	sn:bitcoin	3.08	yes	
-writeup	sn:Permaculture	3.07	no	RISING
-composting projects	sn:Permaculture	3.07	no	RISING
-elon musk	sn:news	3.05	no	RISING
