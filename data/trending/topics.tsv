@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-17T18:12:10.274Z; n=40
-claude	hn,sn:math	6.18	yes	
-ecdsa	hn,sn:math	6.18	yes	
-flash	hn	5.23	no	RISING
-show	hn	4.98	yes	
-blok	sn:food_and_drinks	3.63	no	RISING
-chomps	sn:food_and_drinks	3.63	no	RISING
-tabconf	sn:food_and_drinks	3.63	no	RISING
+# generated 2026-10-17T23:47:05.162Z; n=40
+show	hn	7.83	yes	
+bitkey reflections	sn:bitcoin_beginners	3.51	no	RISING
 books	sn:BooksAndArticles	3.34	no	RISING
 articles weekly	sn:BooksAndArticles	3.34	no	RISING
-brings tor bitcoin mining	sn:bitcoin_beginners	3.29	no	RISING
-hourly ark payouts	sn:bitcoin_beginners	3.29	yes	
-astronomers	sn:science	3.19	no	RISING
-anthropic	sn:math	3.18	yes	
-lodging	sn:bitcoin	3.15	yes	
-wayfaring men book club	sn:bitcoin	3.15	yes	
-farber	sn:bitcoin	3.15	yes	
-second essay	sn:bitcoin	3.15	yes	
-canada	sn:Politics_And_Law	3.15	no	RISING
-cleveland cliffs	sn:Politics_And_Law	3.15	no	RISING
-canadian	sn:Politics_And_Law	3.15	no	RISING
-screens taking over	sn:AskSN	3.06	no	RISING
-why are we	sn:AskSN	3.06	no	RISING
-bowling alone	sn:AskSN	3.06	no	RISING
-john burn-murdoch	sn:AskSN	3.06	no	RISING
+lodging	sn:bitcoin	3.29	yes	
+wayfaring men book club	sn:bitcoin	3.29	yes	
+farber	sn:bitcoin	3.29	yes	
+second essay	sn:bitcoin	3.29	yes	
+corisco	sn:lightning	3.29	no	RISING
+open	sn:lightning	3.29	no	RISING
+lightning	sn:lightning	3.29	yes	
+astronomers	sn:science	3.22	no	RISING
+screens taking over	sn:AskSN	3.14	no	RISING
+why are we	sn:AskSN	3.14	no	RISING
+bowling alone	sn:AskSN	3.14	no	RISING
+john burn-murdoch	sn:AskSN	3.14	no	RISING
+saturday newsletter	sn:meta	3.04	yes	
 daily putt	sn:gaming	3.03	no	RISING
 play	sn:gaming	3.03	no	RISING
 putt	sn:gaming	3.03	no	RISING
 score	sn:gaming	3.03	no	RISING
 introducing	sn:tech	2.99	yes	
 cuba sanctions hub	sn:tech	2.99	yes	
-street	sn:Photography	2.98	no	RISING
-recap	sn:bitcoin	2.92	yes	
-bitcoin names	sn:bitcoin	2.92	yes	
-seed phrase entropy	sn:bitcoin	2.92	yes	
-bitcoin	sn:bitcoin	2.92	yes	
+daily discussion thread	sn:Music	2.97	no	RISING
+music saloon	sn:Music	2.97	no	RISING
+americans	sn:charts_and_maps	2.91	no	RISING
+social activity has steeply declined	sn:charts_and_maps	2.91	no	RISING
+past	sn:charts_and_maps	2.91	no	RISING
+years	sn:charts_and_maps	2.91	no	RISING
 zero	sn:bitcoin	2.89	yes	
 wikipedia	sn:bitcoin	2.89	yes	
-msty	sn:Stacker_Stocks	2.83	no	RISING
-payout	sn:Stacker_Stocks	2.83	no	RISING
-pay per sats	sn:Stacker_Stocks	2.83	no	RISING
+msty	sn:Stacker_Stocks	2.86	no	RISING
+payout	sn:Stacker_Stocks	2.86	no	RISING
+pay per sats	sn:Stacker_Stocks	2.86	no	RISING
+hacked	hn	2.84	no	RISING
+user	hn	2.84	no	RISING
+hackers	sn:security	2.84	no	RISING
+california	sn:security	2.84	no	RISING
+predyx	sn:Stacker_Sports	2.83	no	RISING
+party	sn:Stacker_Sports	2.83	no	RISING
