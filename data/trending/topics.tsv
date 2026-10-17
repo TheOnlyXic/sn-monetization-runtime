@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-17T13:28:30.448Z; n=40
-claude	hn,sn:math	8.34	yes	
-flash	hn	7.39	no	RISING
-ecdsa	hn,sn:math	6.15	yes	
-sword	sn:DIY	4.9	yes	
-home mining	sn:DIY	4.9	yes	
-high hashrate home mining	sn:DIY	4.9	yes	
-show	hn	4.48	yes	
+# generated 2026-10-17T18:12:10.274Z; n=40
+claude	hn,sn:math	6.18	yes	
+ecdsa	hn,sn:math	6.18	yes	
+flash	hn	5.23	no	RISING
+show	hn	4.98	yes	
 blok	sn:food_and_drinks	3.63	no	RISING
 chomps	sn:food_and_drinks	3.63	no	RISING
 tabconf	sn:food_and_drinks	3.63	no	RISING
+books	sn:BooksAndArticles	3.34	no	RISING
+articles weekly	sn:BooksAndArticles	3.34	no	RISING
 brings tor bitcoin mining	sn:bitcoin_beginners	3.29	no	RISING
 hourly ark payouts	sn:bitcoin_beginners	3.29	yes	
-the economics	sn:AI	3.28	yes	
-heartfelt stories	sn:AI	3.28	yes	
-free money helping people	sn:AI	3.28	yes	
-times	sn:AI	3.28	yes	
-tesla roadster	hn	3.18	no	RISING
+astronomers	sn:science	3.19	no	RISING
 anthropic	sn:math	3.18	yes	
-you just	sn:AI	3.16	yes	
-love	sn:AI	3.16	yes	
-agentic bank runs	sn:AI	3.16	yes	
-ben glickman	sn:AI	3.16	yes	
-sunday leaders bounty	sn:gaming	3.16	no	RISING
+lodging	sn:bitcoin	3.15	yes	
+wayfaring men book club	sn:bitcoin	3.15	yes	
+farber	sn:bitcoin	3.15	yes	
+second essay	sn:bitcoin	3.15	yes	
 canada	sn:Politics_And_Law	3.15	no	RISING
 cleveland cliffs	sn:Politics_And_Law	3.15	no	RISING
 canadian	sn:Politics_And_Law	3.15	no	RISING
-disposing of	sn:Permaculture	3.02	no	RISING
-and why composting is not an option	sn:Permaculture	3.02	no	RISING
-sportsbooks	sn:Stacker_Sports	3.01	no	RISING
+screens taking over	sn:AskSN	3.06	no	RISING
+why are we	sn:AskSN	3.06	no	RISING
+bowling alone	sn:AskSN	3.06	no	RISING
+john burn-murdoch	sn:AskSN	3.06	no	RISING
+daily putt	sn:gaming	3.03	no	RISING
+play	sn:gaming	3.03	no	RISING
+putt	sn:gaming	3.03	no	RISING
+score	sn:gaming	3.03	no	RISING
 introducing	sn:tech	2.99	yes	
 cuba sanctions hub	sn:tech	2.99	yes	
 street	sn:Photography	2.98	no	RISING
-update	sn:Politics_And_Law	2.95	no	RISING
-shes	sn:Politics_And_Law	2.95	no	RISING
-gone	sn:Politics_And_Law	2.95	no	RISING
-trump gives new white house press secretary option	sn:Politics_And_Law	2.95	no	RISING
-quit	sn:Politics_And_Law	2.95	no	RISING
-books	sn:BooksAndArticles	2.94	no	RISING
-articles weekly	sn:BooksAndArticles	2.94	no	RISING
-weekly random sports pick	sn:Stacker_Sports	2.92	no	RISING
+recap	sn:bitcoin	2.92	yes	
+bitcoin names	sn:bitcoin	2.92	yes	
+seed phrase entropy	sn:bitcoin	2.92	yes	
+bitcoin	sn:bitcoin	2.92	yes	
+zero	sn:bitcoin	2.89	yes	
+wikipedia	sn:bitcoin	2.89	yes	
+msty	sn:Stacker_Stocks	2.83	no	RISING
+payout	sn:Stacker_Stocks	2.83	no	RISING
+pay per sats	sn:Stacker_Stocks	2.83	no	RISING
