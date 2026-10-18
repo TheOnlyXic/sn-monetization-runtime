@@ -1,31 +1,28 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-18T08:36:11.908Z; n=40
-show	hn	8.79	yes	
+# generated 2026-10-18T13:47:03.339Z; n=40
+show	hn	6.71	yes	
+open	hn,sn:lightning	4.94	no	RISING
 bitkey reflections	sn:bitcoin_beginners	3.55	no	RISING
-books	sn:BooksAndArticles	3.34	no	RISING
-articles weekly	sn:BooksAndArticles	3.34	no	RISING
 corisco	sn:lightning	3.32	no	RISING
-open	sn:lightning	3.32	no	RISING
 lightning	sn:lightning	3.32	yes	
-lodging	sn:bitcoin	3.29	yes	
-wayfaring men book club	sn:bitcoin	3.29	yes	
-farber	sn:bitcoin	3.29	yes	
-second essay	sn:bitcoin	3.29	yes	
-astronomers	sn:science	3.22	no	RISING
 screens taking over	sn:AskSN	3.14	no	RISING
 why are we	sn:AskSN	3.14	no	RISING
 bowling alone	sn:AskSN	3.14	no	RISING
 john burn-murdoch	sn:AskSN	3.14	no	RISING
-saturday newsletter	sn:meta	3.05	yes	
+saturday newsletter	sn:meta	3.09	yes	
+daily discussion thread	sn:Music	3.02	no	RISING
+music saloon	sn:Music	3.02	no	RISING
 hackers	sn:security	2.99	no	RISING
 california	sn:security	2.99	no	RISING
-daily discussion thread	sn:Music	2.97	no	RISING
-music saloon	sn:Music	2.97	no	RISING
-flash	hn	2.93	no	RISING
+flash	hn	2.95	no	RISING
 americans	sn:charts_and_maps	2.91	no	RISING
 social activity has steeply declined	sn:charts_and_maps	2.91	no	RISING
 past	sn:charts_and_maps	2.91	no	RISING
 years	sn:charts_and_maps	2.91	no	RISING
+stock market wobble is	sn:AI	2.87	yes	
+reminder	sn:AI	2.87	yes	
+this time isn	sn:AI	2.87	yes	
+different	sn:AI	2.87	yes	
 the fed	sn:Music	2.84	no	RISING
 money from nothing	sn:Music	2.84	no	RISING
 official music video	sn:Music	2.84	no	RISING
@@ -35,8 +32,11 @@ predyx	sn:Stacker_Sports	2.83	no	RISING
 party	sn:Stacker_Sports	2.83	no	RISING
 sats	sn:Stacker_Sports	2.83	no	RISING
 everyone	sn:Stacker_Sports	2.83	no	RISING
+daily putt	sn:gaming	2.79	no	RISING
+play	sn:gaming	2.79	no	RISING
+putt	sn:gaming	2.79	no	RISING
+score	sn:gaming	2.79	no	RISING
 money	sn:Politics_And_Law	2.79	no	RISING
 vote	sn:Politics_And_Law	2.79	no	RISING
 it was always	sn:Politics_And_Law	2.79	no	RISING
 economy	sn:Politics_And_Law	2.79	no	RISING
-stupid	sn:Politics_And_Law	2.79	no	RISING
