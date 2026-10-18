@@ -57333,3 +57333,8 @@
 2026-10-18T10:54:41.292Z	1597310	BooksAndArticles	2	240	0	0	8.0	104755	13423	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	“Richard Bronson In His Own Words”
 2026-10-18T10:54:41.292Z	1597368	AI	1	126	0	0	0.6	12309	3733	recent@AI|top@AI|recent@econ	FRESH,SIGNAL	The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different
 2026-10-18T13:27:13.933Z	1597368	AI	1	745	0	0	3.2	12309	3733	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different
+2026-10-18T14:30:18.259Z	1597437	bitcoin	1	13842	0	2	0.5	30782	26062	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	I finally visited Pubkey in Washington DC
+2026-10-18T14:30:18.259Z	1597368	AI	1	826	0	0	4.2	12309	3733	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different
+2026-10-18T14:30:18.259Z	1597396	tech	1	315	0	1	2.7	13531	1746	recent@tech|top@tech|recent@econ	SIGNAL	SpaceX’s ambitious, pricey gamble to replace AT&T and Verizon
+2026-10-18T14:30:18.259Z	1597445	lightning	1	306	0	0	0.3	163128	3978	recent@lightning|top@lightning	FRESH,SIGNAL	nodesignal's cashu-player
+2026-10-18T14:30:18.259Z	1597310	BooksAndArticles	2	240	0	0	11.6	104755	13424	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	“Richard Bronson In His Own Words”
