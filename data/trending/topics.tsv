@@ -1,20 +1,18 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-18T23:56:08.355Z; n=40
+# generated 2026-10-19T09:38:18.627Z; n=40
 sunday	sn:Stacker_Sports,sn:Animal_World	6.04	no	RISING
-show	hn	5.99	yes	
-pubkey	sn:bitcoin	4.18	yes	
-washington	sn:bitcoin	4.18	yes	
+pubkey	sn:bitcoin	4.19	yes	
+washington	sn:bitcoin	4.19	yes	
+linux	hn	4.1	no	RISING
 replacing europe	sn:charts_and_maps	3.82	no	RISING
 an undercover film	sn:charts_and_maps	3.82	no	RISING
-daily discussion thread	sn:Music	3.04	no	RISING
-music saloon	sn:Music	3.04	no	RISING
-watermelon cultivation	sn:Permaculture	3.04	no	RISING
-dune	sn:Permaculture	3.04	no	RISING
-receive	sn:lightning	3.02	no	RISING
-lightning	sn:lightning	3.02	yes	
+receive	sn:lightning	3.05	no	RISING
+lightning	sn:lightning	3.05	yes	
+closed its doors	sn:bitcoin	2.99	yes	
+years ago today	sn:bitcoin	2.99	yes	
 blok whatcha buying week	sn:Stacker_Stocks	2.98	no	RISING
-closed its doors	sn:bitcoin	2.98	yes	
-years ago today	sn:bitcoin	2.98	yes	
+bitcoin	sn:bitcoin	2.97	yes	
+worth it	sn:bitcoin	2.97	yes	
 discussion thread	sn:Stacker_Sports	2.96	no	RISING
 stock market wobble is	sn:AI	2.94	yes	
 reminder	sn:AI	2.94	yes	
@@ -22,21 +20,23 @@ this time isn	sn:AI	2.94	yes
 different	sn:AI	2.94	yes	
 capable design	sn:Design	2.94	no	RISING
 privacy	sn:Design	2.94	no	RISING
-pool	sn:AskSN	2.91	no	RISING
-week	sn:AskSN	2.91	no	RISING
-france protests	sn:Politics_And_Law	2.84	no	RISING
-tourist office burnt down in lyon	sn:Politics_And_Law	2.84	no	RISING
+pool	sn:AskSN	2.93	no	RISING
+week	sn:AskSN	2.93	no	RISING
+bills	sn:Stacker_Sports	2.78	no	RISING
+river	sn:Stacker_Sports	2.78	no	RISING
+vegas	sn:Stacker_Sports	2.78	no	RISING
+my three takeaways	sn:Stacker_Sports	2.78	no	RISING
+forgotten internet tech	sn:AskSN	2.75	no	RISING
 daily accountability thread	sn:HealthAndFitness	2.74	no	RISING
-new york city	sn:Photography	2.72	no	RISING
+daily putt	sn:gaming	2.69	no	RISING
+play	sn:gaming	2.69	no	RISING
+putt	sn:gaming	2.69	no	RISING
+score	sn:gaming	2.69	no	RISING
 verizon	sn:tech	2.67	yes	
+someone	hn	2.65	no	RISING
 cashu-player	sn:lightning	2.62	no	RISING
-namecheap	hn	2.59	no	RISING
+hybrid reasoning agents	hn	2.59	no	RISING
+there	hn	2.56	yes	
+daily discussion thread	sn:Music	2.56	no	RISING
+music saloon	sn:Music	2.56	no	RISING
 essential permaculture books	sn:Permaculture	2.56	no	RISING
-the elizabeth holmes	hn	2.55	no	RISING
-you can see everything	hn	2.55	no	RISING
-someone	hn	2.44	no	RISING
-forgotten internet tech	sn:AskSN	2.39	no	RISING
-sphinx	hn	2.38	no	RISING
-richard bronson in his own words	sn:BooksAndArticles	2.38	no	RISING
-parser combinators	hn	2.34	no	RISING
-what	sn:AskSN	2.3	yes	
