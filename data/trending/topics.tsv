@@ -1,20 +1,22 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-20T00:55:01.369Z; n=40
+# generated 2026-10-20T09:11:41.453Z; n=40
 loyalty	sn:Politics_And_Law	3.88	no	RISING
 rewards	sn:Politics_And_Law	3.88	no	RISING
 other monetary scams	sn:Politics_And_Law	3.88	no	RISING
 the points guy	sn:Politics_And_Law	3.88	no	RISING
 net interest	sn:Politics_And_Law	3.88	no	RISING
-nintendo	sn:bitdevs	3.72	yes	
+nintendo	sn:bitdevs	3.72	no	RISING
 tear	sn:bitdevs	3.72	no	RISING
-restaurant	sn:food_and_drinks	3.4	no	RISING
-there	sn:math	3.35	yes	
-why is europe burning	sn:Politics_And_Law	3.22	no	RISING
-the boomers did it	sn:Politics_And_Law	3.22	no	RISING
-niall ferguson	sn:Politics_And_Law	3.22	no	RISING
-data center opposition threatens millions	sn:AI	3.17	yes	
-jobs billions	sn:AI	3.17	yes	
-economic activity	sn:AI	3.17	yes	
+there	sn:math	3.51	yes	
+restaurant	sn:food_and_drinks	3.41	no	RISING
+android	hn	3.35	no	RISING
+why is europe burning	sn:Politics_And_Law	3.23	no	RISING
+the boomers did it	sn:Politics_And_Law	3.23	no	RISING
+niall ferguson	sn:Politics_And_Law	3.23	no	RISING
+data center opposition threatens millions	sn:AI	3.2	yes	
+jobs billions	sn:AI	3.2	yes	
+economic activity	sn:AI	3.2	yes	
+would	sn:AI	3.16	yes	
 why don	sn:Politics_And_Law	3.15	no	RISING
 boomers want	sn:Politics_And_Law	3.15	no	RISING
 grandparent	sn:Politics_And_Law	3.15	no	RISING
@@ -22,9 +24,6 @@ newsweek	sn:Politics_And_Law	3.15	no	RISING
 daniella gray	sn:Politics_And_Law	3.15	no	RISING
 elon musk	sn:news	3.15	no	RISING
 america	sn:news	3.15	yes	
-bitcoin	sn:bitcoin	3.14	yes	
-worth it	sn:bitcoin	3.14	yes	
-would	sn:AI	3.1	yes	
 iceland has	sn:AI	3.07	yes	
 perfect	sn:AI	3.07	yes	
 pitch	sn:AI	3.07	yes	
@@ -32,11 +31,12 @@ but turns down projects	sn:AI	3.07	yes
 the times	sn:AI	3.07	yes	
 dorrell	sn:AI	3.07	yes	
 the world update	sn:Stacker_Sports	3.06	no	RISING
-an amazing absinthe affair	sn:food_and_drinks	3.05	no	RISING
+an amazing absinthe affair	sn:food_and_drinks	3.06	no	RISING
 survivor pool	sn:Stacker_Sports	3.03	no	RISING
 week	sn:Stacker_Sports	3.03	no	RISING
-keynote	sn:bitcoinplusplus	3.01	no	RISING
-kickoff	sn:bitcoinplusplus	3.01	no	RISING
-rene pickhardt	sn:bitcoinplusplus	3.01	no	RISING
-berlin	sn:bitcoinplusplus	3.01	no	RISING
+keynote	sn:bitcoinplusplus	3.02	no	RISING
+kickoff	sn:bitcoinplusplus	3.02	no	RISING
+rene pickhardt	sn:bitcoinplusplus	3.02	no	RISING
+berlin	sn:bitcoinplusplus	3.02	no	RISING
 what	sn:AskSN	3	yes	
+commies	sn:Stacker_Sports	2.99	no	RISING
