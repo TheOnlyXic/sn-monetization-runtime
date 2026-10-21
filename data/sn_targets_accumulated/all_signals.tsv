@@ -57877,3 +57877,12 @@
 2026-10-21T11:39:07.699Z	1599158	bitcoin	1	289	0	4	9.0	1518571	36	recent@bitcoin|top@bitcoin	SIGNAL	Electrum CLINK Plugin v.0.0.13 released
 2026-10-21T11:39:07.699Z	1599321	news	2	178	0	0	1.4	1599170	4	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Bitcoin’s Missing Bit
 2026-10-21T11:39:07.700Z	1599229	lightning	1	120	0	12	6.3	1518571	36	recent@lightning|top@lightning	SIGNAL	Accepting lightning shouldn't require a VPS for BTCPay Server. Now it doesn't 🥳
+2026-10-21T14:36:52.474Z	1599321	news	2	5718	0	0	4.4	1599170	4	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Bitcoin’s Missing Bit
+2026-10-21T14:36:52.474Z	1599443	tech	1	1086	0	1	0.5	934367	1120	recent@tech|top@tech	FRESH,HOT,SIGNAL	eMudhra's CA keys cracked in milliseconds
+2026-10-21T14:36:52.474Z	1599369	lightning	1	942	0	0	2.7	440729	332	top@lightning	SIGNAL	⚡️ Storm Report: Best posts about the Lightning Network on SN - issue: 972470
+2026-10-21T14:36:52.474Z	1599371	bitcoin	1	463	0	3	2.7	296825	5666	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcube - Home Bitcoin Miner with Touchscreen
+2026-10-21T14:36:52.474Z	1599379	math	2	360	0	1	2.4	280679	23823	recent@AI|top@AI	SIGNAL	AI Proved the Quasi-Riemann Hypothesis. What Happens Now?
+2026-10-21T14:36:52.474Z	1599412	AI	1	292	0	0	1.4	402772	22722	recent@AI|top@AI	FRESH,SIGNAL	AI will make it possible to design and build organisms from scratch
+2026-10-21T14:36:52.474Z	1599158	bitcoin	1	289	0	4	11.9	1518571	37	recent@bitcoin|top@bitcoin	SIGNAL	Electrum CLINK Plugin v.0.0.13 released
+2026-10-21T14:36:52.474Z	1599290	AI	1	231	0	0	5.7	12309	3736	recent@devs|top@devs|recent@tech	SIGNAL	DeepSeek opensources Inference Software
+2026-10-21T14:36:52.474Z	1599451	AI	1	107	0	0	0.3	1	27731	recent@devs|top@devs|recent@tech	FRESH,SIGNAL	PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web
