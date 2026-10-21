@@ -1,0 +1,51 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1599158	bitcoin	1	289	0	4	9.0	1518571	36	recent@bitcoin|top@bitcoin	SIGNAL	Electrum CLINK Plugin v.0.0.13 released
+1599321	news	2	178	0	0	1.4	1599170	4	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Bitcoin’s Missing Bit
+1599229	lightning	1	120	0	12	6.3	1518571	36	recent@lightning|top@lightning	SIGNAL	Accepting lightning shouldn't require a VPS for BTCPay Server. Now it doesn't 🥳
+1599042	AskSN	2	5575	0	11	13.7	1	27727	recent@AI|top@AI	HOT,SELF_POST_OPP	Which belief creates a more powerful confirmation bias?
+1599004	bitcoin	1	2847	0	2	15.2	1014665	247	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Erick Cestari, Adam Gibson - Bitcoin Optech Newsletter #427 Recap Podcast
+1598862	AskSN	2	2499	0	70	18.0	74100	13337	recent@bitcoin|top@bitcoin	HOT	Is Bitcoin already freedom money?
+1598778	nostr	1	2047	0	3	20.0	352021	234	recent@nostr|top@nostr|recent@devs	HOT	Nostr4j v0.4.1 : unstoppable p2p etc...
+1598879	events	3	1933	0	3	17.5	74100	13337	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Austin Bitdevs Socratic Seminar #81 - THIS THURSDAY!
+1599009	meta	1	1918	0	8	15.1	92827	2977	recent@meta|top@meta	HOT	Another week, Another ZINE - SNZ #74
+1598699	bitcoin	1	1873	0	7	22.3	74100	13337	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Liquid Network Staged Recovery Update
+1598696	lightning	1	1345	0	3	22.3	263526	1006	recent@lightning|top@lightning	HOT	Introducing BOLT12 recurrence to LDK Nodes
+1598748	bitcoin	1	1230	0	3	20.7	724606	13583	recent@bitcoin|top@bitcoin	HOT	Reviewing “Defending Bitcoin” by Luke de Wolf (BTCHEL, Joakim Book)
+1598865	lightning	1	1033	0	2	17.9	440729	331	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (3.9 BTC) + New Node Spotlight (03878adcfe720ef7e…)
+1598597	bitcoin	1	988	0	3	24.7	462245	310	recent@bitcoin|recent@bitcoinplusplus		More Offchain Protocols — Last Week in Bitcoin (Oct 12 - 18)
+1598355	bitcoin	1	958	0	1	35.9	1552562	61	recent@bitcoin		Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million
+1598687	lightning	1	863	0	2	22.5	263526	1006	recent@lightning|top@lightning		What did you do with Lightning this week?
+1598366	lightning	1	711	0	14	35.4	1546100	27	recent@lightning		Exact-Channel Circular Rebalancing for Alby Hub
+1598968	nostr	1	673	0	4	15.9	74100	13337	recent@nostr|top@nostr		Feather: Nostr with nothing in the way - Gigi
+1599092	math	2	587	0	1	12.3	9274	28774	recent@devs|top@devs		The Mother of Software Engineering Margaret Hamilton
+1599059	tech	1	568	0	2	13.4	74100	13337	recent@tech|top@tech		PHP warns admins of two critical flaws, emergency patches coming tomorrow
+1598936	bitcoin	1	480	0	2	16.2	176202	54	recent@bitcoin|top@bitcoin		Liquid and Lightning are back on BULL Wallet.
+1598530	bitcoin	1	480	0	0	26.8	133081	744	recent@bitcoin		Bank of America Missed $5B. But Bitcoin Is the Problem?
+1598614	gaming	3	458	0	0	24.2	12309	3736	recent@tech		DIY VR: How to build your own headset, and why you probably won't want to
+1598815	gaming	3	448	0	2	18.9	74100	13337	recent@bitcoin|top@bitcoin		Surf the bitcoin price wave - satoshihabits
+1598373	AI	1	370	0	3	35.1	24587	149	recent@bitdevs|recent@tech|recent@AI		satsforbots.com: the directory for AI agents that pay in Bitcoin
+1598429	bitcoin	1	352	0	2	33.5	74100	13337	recent@bitcoin|recent@privacy		Archipelago Foundation
+1598419	events	3	327	0	0	34.0	296825	5665	recent@bitcoin_beginners|recent@lightning		Dakar Bitcoin Days – A forum focused on technological innovations.
+1599075	bitcoin	1	317	0	0	13.1	1497665	15	recent@bitcoin|top@bitcoin		Cost-Bounded Bitcoin Transaction Filtering Language
+1598554	AI	1	285	0	1	25.7	296825	5665	recent@bitcoin|recent@bitcoin_beginners|recent@AI		Black Monday Never Showed Up
+1598394	bitcoin	1	252	0	0	34.8	296825	5665	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		Spotted in Vienna
+1598436	AI	1	215	0	0	33.0	1598436	1	recent@AI		Show SN: Claude Code on sats, 59% below list price (Lightning/Cashu, no account)
+1599014	Music	3	191	0	0	15.0	1010485	26	recent@devs|top@devs		Terminal sampler in Rust
+1598464	bitcoin	1	180	0	0	31.9	296825	5665	recent@bitcoin|recent@bitcoin_beginners		How has Bitcoin changed you?
+1598961	tech	1	118	0	0	16.0	12309	3736	recent@privacy|top@privacy|recent@tech		Meta tries to scapegoat staff who downloaded torrents to spare execs
+1598468	bitcoin	1	107	0	1	31.7	296825	5665	recent@bitcoin_beginners		EU will ban cash payments over €10,000 starting July 2027
+1599086	devs	1	86	0	0	12.5	297791	7971	recent@devs|top@devs		Announcing TypeScript 7.1 Beta - TypeScript
+1598794	devs	1	83	0	0	19.6	297791	7971	recent@devs|top@devs		Linus Torvalds' AI Code Improved: Huge Performance Wins With Reworked Code
+1599184	bitcoin_beginners	1	72	0	0	8.1	1301409	78	recent@bitcoin_beginners|top@bitcoin_beginners		Not Yours Keys, Not Your Coins
+1599155	bitcoin	1	57	0	4	9.1	1518571	36	recent@bitcoin|top@bitcoin		Electrum Liquidity Helper v0.5.0 released
+1599351	AI	1	57	0	0	0.4	296825	5665	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI	FRESH	No Hedge on Earth
+1598418	AI	1	47	0	0	34.2	296825	5665	recent@bitcoin_beginners|recent@bitdevs|recent@AI		Tools for AI agents that pay in Bitcoin · Sats for Bots
+1598357	bitcoin_beginners	1	36	0	0	35.7	734702	90	recent@bitcoin_beginners		Launch a Bitcoin Rune in one click. Trade it at Solana speed.
+1599290	AI	1	36	0	0	2.7	12309	3736	recent@devs|top@devs|recent@AI		DeepSeek opensources Inference Software
+1599340	AI	1	36	0	0	0.6	272410	2001	recent@AI|top@AI	FRESH	Meta's Muse AI Agent Caught Leaking Users' Intimate Personal Information
+1598845	AI	1	32	0	0	18.3	1575305	45	recent@AI|top@AI		Delft AI drone beats three former world champion pilots with a single camera
+1598469	AI	1	32	0	4	31.6	238412	371	recent@AI		Removal of Deepseek Products
+1598472	news	2	32	0	1	31.5	1514436	51	recent@AI		The Lunduke Journal: Anti-AI activism in the Linux Technical Advisory Board
+1598471	AI	1	32	0	0	31.5	296825	5665	recent@AI		People Are Using AI to Get Rid of Smart TV Ads and Make Their TVs Faster
+1599265	AI	1	11	0	0	3.8	182100	853	recent@AI|top@AI		AI influencers - 3 questions
+1599091	AI	1	11	0	0	12.3	1575305	45	recent@AI|top@AI		doubleAI's agent beats a 1988 graph theory bound and ships the proof in Lean

@@ -57874,3 +57874,6 @@
 2026-10-21T10:01:38.278Z	1599158	bitcoin	1	289	0	4	7.3	1518571	34	recent@bitcoin|top@bitcoin	SIGNAL	Electrum CLINK Plugin v.0.0.13 released
 2026-10-21T10:01:38.278Z	1599255	AskSN	2	175	0	0	3.1	104755	13436	recent@AskSN|top@AskSN	SIGNAL	How much of a spontaneous person are you?
 2026-10-21T10:01:38.278Z	1599169	Politics_And_Law	3	118	0	0	6.9	74100	13337	recent@econ|top@econ	SIGNAL	California billionaire tax ballot measure may cost the state ~$40b
+2026-10-21T11:39:07.699Z	1599158	bitcoin	1	289	0	4	9.0	1518571	36	recent@bitcoin|top@bitcoin	SIGNAL	Electrum CLINK Plugin v.0.0.13 released
+2026-10-21T11:39:07.699Z	1599321	news	2	178	0	0	1.4	1599170	4	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Bitcoin’s Missing Bit
+2026-10-21T11:39:07.700Z	1599229	lightning	1	120	0	12	6.3	1518571	36	recent@lightning|top@lightning	SIGNAL	Accepting lightning shouldn't require a VPS for BTCPay Server. Now it doesn't 🥳
