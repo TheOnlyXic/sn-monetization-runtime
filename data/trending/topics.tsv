@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-20T19:50:44.497Z; n=40
-what	hn,sn:AskSN,sn:lightning	7.73	yes	
-rust	hn	5.93	no	RISING
-google	hn	4.72	yes	
+# generated 2026-10-21T00:23:24.913Z; n=40
+what	hn,sn:AskSN,sn:lightning	10.07	yes	
+rust	hn	6.34	no	RISING
+revolut	sn:news	6.03	no	RISING
+google cloud	hn,sn:news	5.36	no	RISING
+google	hn	4.98	yes	
+which	sn:AskSN	3.71	yes	
 last	sn:Stacker_Sports	3.47	no	RISING
-restaurant	sn:food_and_drinks	3.44	no	RISING
-strc	sn:Stacker_Stocks	3.32	no	RISING
-stretch	sn:Stacker_Stocks	3.32	no	RISING
-keep par	sn:Stacker_Stocks	3.32	no	RISING
-digital credit	sn:Stacker_Stocks	3.32	no	RISING
-anyway	sn:Stacker_Stocks	3.32	no	RISING
-eric yakes	sn:Stacker_Stocks	3.32	no	RISING
-high	hn	3.29	no	RISING
-here	sn:Politics_And_Law	3.28	yes	
-truth about fertility	sn:Politics_And_Law	3.28	no	RISING
-critic mag	sn:Politics_And_Law	3.28	no	RISING
-stephen shaw	sn:Politics_And_Law	3.28	no	RISING
+here	sn:Politics_And_Law	3.46	yes	
+truth about fertility	sn:Politics_And_Law	3.46	no	RISING
+critic mag	sn:Politics_And_Law	3.46	no	RISING
+stephen shaw	sn:Politics_And_Law	3.46	no	RISING
+erick cestari	sn:bitcoin	3.42	yes	
+adam gibson	sn:bitcoin	3.42	yes	
+bitcoin optech newsletter	sn:bitcoin	3.42	yes	
+recap podcast	sn:bitcoin	3.42	yes	
+is bitcoin	sn:AskSN	3.37	yes	
+strc	sn:Stacker_Stocks	3.34	no	RISING
+stretch	sn:Stacker_Stocks	3.34	no	RISING
+keep par	sn:Stacker_Stocks	3.34	no	RISING
+digital credit	sn:Stacker_Stocks	3.34	no	RISING
+anyway	sn:Stacker_Stocks	3.34	no	RISING
+eric yakes	sn:Stacker_Stocks	3.34	no	RISING
+high	hn	3.32	no	RISING
+another	sn:meta	3.28	yes	
+zine	sn:meta	3.28	yes	
+austin bitdevs socratic seminar	sn:events	3.28	yes	
+thursday	sn:events	3.28	yes	
 liquid network staged recovery update	sn:bitcoin	3.27	yes	
-is bitcoin	sn:AskSN	3.26	yes	
-why is europe burning	sn:Politics_And_Law	3.24	no	RISING
-the boomers did it	sn:Politics_And_Law	3.24	no	RISING
-niall ferguson	sn:Politics_And_Law	3.24	no	RISING
-austin bitdevs socratic seminar	sn:events	3.21	yes	
-thursday	sn:events	3.21	yes	
+trump	sn:Politics_And_Law	3.19	no	RISING
+coming	sn:Politics_And_Law	3.19	no	RISING
+credit card rewards	sn:Politics_And_Law	3.19	no	RISING
+eric levitz	sn:Politics_And_Law	3.19	no	RISING
 extracting	sn:Permaculture	3.19	no	RISING
 chaga	sn:Permaculture	3.19	no	RISING
-trump	sn:Politics_And_Law	3.18	no	RISING
-coming	sn:Politics_And_Law	3.18	no	RISING
-credit card rewards	sn:Politics_And_Law	3.18	no	RISING
-eric levitz	sn:Politics_And_Law	3.18	no	RISING
-revolut	sn:news	3.18	no	RISING
-would	sn:AI	3.16	yes	
 prom	sn:Photography	3.16	no	RISING
 loyalty programs	sn:Politics_And_Law	3.15	no	RISING
 points are messing up	sn:Politics_And_Law	3.15	no	RISING
 whole airline industry	sn:Politics_And_Law	3.15	no	RISING
 kahan	sn:Politics_And_Law	3.15	no	RISING
 introducing	sn:lightning	3.13	yes	
-nodes	sn:lightning	3.13	no	RISING
-pubs birthday	sn:Music	3.07	no	RISING
-daily discussion thread	sn:Music	3.07	no	RISING
