@@ -57957,3 +57957,18 @@
 2026-10-21T19:16:10.132Z	1599306	Stacker_Stocks	2	133	0	7	9.6	9274	28780	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
 2026-10-21T19:16:10.132Z	1599341	bitcoin	1	124	0	0	8.2	238412	372	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	The Great Dilution
 2026-10-21T19:16:10.132Z	1599453	tech	1	113	0	1	4.9	458256	5046	recent@econ|top@econ	SIGNAL	SpaceX and Tesla Explore Merger to Create a De Facto Elon Inc.
+2026-10-21T22:12:08.476Z	1599321	news	2	5728	0	2	12.0	1599170	4	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Bitcoin’s Missing Bit
+2026-10-21T22:12:08.476Z	1599600	bitcoin	1	2022	0	13	5.3	74100	13350	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Here come the "blockchain not Bitcoin" guys again
+2026-10-21T22:12:08.476Z	1599443	tech	1	1408	0	4	8.1	934367	1121	recent@tech|top@tech	HOT,SIGNAL	eMudhra's CA keys cracked in milliseconds
+2026-10-21T22:12:08.476Z	1599500	AskSN	2	1334	0	5	7.3	724606	13612	recent@AI|top@AI	HOT,SIGNAL,SELF_POST_OPP	Are Humans Still “the Ultimate Resource”? (HP, Alex Hammond)
+2026-10-21T22:12:08.476Z	1599783	tech	1	1271	0	3	0.4	1	27745	recent@devs|top@devs|recent@tech	FRESH,HOT,SIGNAL	Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE
+2026-10-21T22:12:08.476Z	1599451	AI	1	977	0	1	7.9	1	27745	recent@devs|top@devs|recent@tech	SIGNAL	PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web
+2026-10-21T22:12:08.476Z	1599369	lightning	1	942	0	0	10.3	440729	334	top@lightning	SIGNAL	⚡️ Storm Report: Best posts about the Lightning Network on SN - issue: 972470
+2026-10-21T22:12:08.476Z	1599739	bitcoin	1	575	0	4	2.0	1570149	17	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Are there any FROST-capable wallets that I can run on old phones?
+2026-10-21T22:12:08.476Z	1599698	devs	1	571	0	0	3.1	163128	3981	recent@devs|top@devs	SIGNAL	🚨 Node.js Vulnerability — October 21, 2026 Security Releases
+2026-10-21T22:12:08.476Z	1599770	bitcoinplusplus	1	510	0	0	0.9	280679	23829	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Can Bitcoin Payments Survive the AI Onslaught? — Calle, joschisan, Elias Rohrer,
+2026-10-21T22:12:08.476Z	1599371	bitcoin	1	474	0	6	10.3	296825	5666	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcube - Home Bitcoin Miner with Touchscreen
+2026-10-21T22:12:08.476Z	1599447	bitcoin	1	469	0	13	8.0	30782	26076	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Fiction for Sats — Andrew Westhead
+2026-10-21T22:12:08.476Z	1599379	math	2	360	0	1	10.0	280679	23829	recent@AI|top@AI	SIGNAL	AI Proved the Quasi-Riemann Hypothesis. What Happens Now?
+2026-10-21T22:12:08.476Z	1599412	AI	1	292	0	0	9.0	402772	22726	recent@AI|top@AI	SIGNAL	AI will make it possible to design and build organisms from scratch
+2026-10-21T22:12:08.476Z	1599506	meta	1	261	0	2	7.2	36151	1680	recent@meta|top@meta	SIGNAL	What are you working on this week?
