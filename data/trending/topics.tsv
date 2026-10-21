@@ -1,12 +1,12 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-21T14:53:06.419Z; n=40
-california	sn:Politics_And_Law	5.58	no	RISING
-japan territory fee fundraiser	sn:japan	4.61	no	RISING
-help	sn:japan	4.61	no	RISING
-bitcoin	sn:news	3.76	yes	
+# generated 2026-10-21T19:56:03.497Z; n=40
+bitcoin	sn:bitcoin,sn:news	7.06	yes	
+japan territory fee fundraiser	sn:japan	4.62	no	RISING
+help	sn:japan	4.62	no	RISING
+pleb economist	sn:math	4.37	no	RISING
+the secretary problem	sn:math	4.37	no	RISING
 missing bit	sn:news	3.76	yes	
 which	sn:AskSN	3.75	yes	
-show	hn	3.72	yes	
 cartel	sn:Stacker_Sports	3.52	no	RISING
 in defense	sn:Stacker_Sports	3.52	no	RISING
 manchester city	sn:Stacker_Sports	3.52	no	RISING
@@ -15,28 +15,28 @@ erick cestari	sn:bitcoin	3.45	yes
 adam gibson	sn:bitcoin	3.45	yes	
 bitcoin optech newsletter	sn:bitcoin	3.45	yes	
 recap podcast	sn:bitcoin	3.45	yes	
-is bitcoin	sn:AskSN	3.43	yes	
 framing	sn:econ	3.36	no	RISING
-strc	sn:Stacker_Stocks	3.36	no	RISING
-stretch	sn:Stacker_Stocks	3.36	no	RISING
-keep par	sn:Stacker_Stocks	3.36	no	RISING
-digital credit	sn:Stacker_Stocks	3.36	no	RISING
-anyway	sn:Stacker_Stocks	3.36	no	RISING
-eric yakes	sn:Stacker_Stocks	3.36	no	RISING
+here	sn:bitcoin	3.31	yes	
 another	sn:meta	3.29	yes	
 zine	sn:meta	3.29	yes	
-austin bitdevs socratic seminar	sn:events	3.29	yes	
-thursday	sn:events	3.29	yes	
-trump	sn:Politics_And_Law	3.24	no	RISING
-coming	sn:Politics_And_Law	3.24	no	RISING
-credit card rewards	sn:Politics_And_Law	3.24	no	RISING
-eric levitz	sn:Politics_And_Law	3.24	no	RISING
-upcoming	hn	3.14	no	RISING
-reviewing	sn:bitcoin	3.09	yes	
-defending bitcoin	sn:bitcoin	3.09	yes	
-luke	sn:bitcoin	3.09	yes	
-wolf	sn:bitcoin	3.09	yes	
-btchel	sn:bitcoin	3.09	yes	
-joakim book	sn:bitcoin	3.09	yes	
+are humans still	sn:AskSN	3.13	yes	
+ultimate resource	sn:AskSN	3.13	yes	
+alex hammond	sn:AskSN	3.13	yes	
+playing	sn:gaming	3.08	no	RISING
 come	sn:Travel	3.07	no	RISING
 brazil	sn:Travel	3.07	no	RISING
+works	sn:Travel	3.07	no	RISING
+progress magazine	sn:Travel	3.07	no	RISING
+tyler cowen	sn:Travel	3.07	no	RISING
+like	sn:Politics_And_Law	3.05	no	RISING
+decide what	sn:Politics_And_Law	3.05	no	RISING
+good for you	sn:Politics_And_Law	3.05	no	RISING
+the atlantic over	sn:Politics_And_Law	3.05	no	RISING
+under	sn:Politics_And_Law	3.05	no	RISING
+will gottsegen	sn:Politics_And_Law	3.05	no	RISING
+house committee says webull messages point	sn:Politics_And_Law	3.04	no	RISING
+china access	sn:Politics_And_Law	3.04	no	RISING
+customer data	sn:Politics_And_Law	3.04	no	RISING
+daily discussion thread	sn:Music	3.04	no	RISING
+music saloon	sn:Music	3.04	no	RISING
+sets date for auction	sn:Politics_And_Law	3.04	no	RISING
