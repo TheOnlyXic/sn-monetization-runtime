@@ -1,0 +1,52 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1599743	Geyser_community	3	2967	0	3	9.1	144357	4686	recent@bitcoin|top@bitcoin	HOT,SIGNAL	A Home for Bitcoin Builders - PlebLab Guadalajara
+1599913	news	2	1739	0	1	3.5	74100	13355	recent@devs|top@devs	HOT,SIGNAL	php, nodejs...and here comes Java!
+1599783	tech	1	1597	0	6	7.6	1	27747	recent@devs|top@devs|recent@tech	HOT,SIGNAL	Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE
+1599698	devs	1	810	0	1	10.4	163128	3981	recent@devs|top@devs	SIGNAL	🚨 Node.js Vulnerability — October 21, 2026 Security Releases
+1599739	bitcoin	1	783	0	6	9.2	1570149	21	recent@bitcoin|top@bitcoin	SIGNAL	Are there any FROST-capable wallets that I can run on old phones?
+1599879	bitcoin	1	778	0	0	4.8	30782	26081	recent@bitcoin|top@bitcoin	SIGNAL	Business As Usual After Liquid Hack: Back - Bloomberg
+1599930	tech	1	671	0	0	3.2	1570149	21	recent@tech|top@tech	SIGNAL	I made a p2p app for sharing files through persistent tunnels with trusted peers
+1599790	AI	1	525	0	0	7.4	74100	13355	recent@nostr|top@nostr|recent@devs	SIGNAL	Speaking Feather into existence - Gigi
+1599770	bitcoinplusplus	1	510	0	1	8.1	280679	23830	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Can Bitcoin Payments Survive the AI Onslaught? — Calle, joschisan, Elias Rohrer,
+1599838	AI	1	239	0	0	6.0	1575305	47	recent@AI|top@AI	SIGNAL	Linus Torvalds ships his first AI-assisted kernel patch and clocks a 23x speedup
+1599687	AI	1	103	0	0	10.5	238412	373	recent@AI|top@AI	SIGNAL	Getty Images Bankrupt
+1599321	news	2	5728	0	2	19.2	1599170	4	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Bitcoin’s Missing Bit
+1599042	AskSN	2	5575	0	18	31.5	1	27747	recent@AI	HOT,SELF_POST_OPP	Which belief creates a more powerful confirmation bias?
+1599004	bitcoin	1	2847	0	3	32.9	1014665	247	recent@bitcoin|recent@lightning	HOT	Erick Cestari, Adam Gibson - Bitcoin Optech Newsletter #427 Recap Podcast
+1598862	AskSN	2	2673	0	76	35.7	74100	13355	recent@bitcoin	HOT	Is Bitcoin already freedom money?
+1599600	bitcoin	1	2252	0	13	12.5	74100	13355	recent@bitcoin|top@bitcoin	HOT	Here come the "blockchain not Bitcoin" guys again
+1599009	meta	1	1958	0	10	32.8	92827	2978	recent@meta	HOT	Another week, Another ZINE - SNZ #74
+1598879	events	3	1933	0	3	35.3	74100	13355	recent@bitcoin|recent@bitdevs	HOT	Austin Bitdevs Socratic Seminar #81 - THIS THURSDAY!
+1599443	tech	1	1449	0	5	15.3	934367	1121	recent@tech|top@tech	HOT	eMudhra's CA keys cracked in milliseconds
+1599500	AskSN	2	1376	0	5	14.5	724606	13615	recent@AI|top@AI	HOT,SELF_POST_OPP	Are Humans Still “the Ultimate Resource”? (HP, Alex Hammond)
+1598865	lightning	1	1033	0	2	35.6	440729	334	recent@lightning	HOT	Biggest Channel Opened Today (3.9 BTC) + New Node Spotlight (03878adcfe720ef7e…)
+1599369	lightning	1	1022	0	1	17.5	440729	334	top@lightning	HOT	⚡️ Storm Report: Best posts about the Lightning Network on SN - issue: 972470
+1599451	AI	1	978	0	1	15.1	1	27747	recent@devs|top@devs|recent@tech		PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web
+1599290	AI	1	756	0	0	20.5	12309	3736	recent@devs|top@devs|recent@tech		DeepSeek opensources Inference Software
+1598968	nostr	1	673	0	4	33.7	74100	13355	recent@nostr		Feather: Nostr with nothing in the way - Gigi
+1599092	math	2	587	0	1	30.0	9274	28795	recent@devs		The Mother of Software Engineering Margaret Hamilton
+1599059	tech	1	568	0	2	31.1	74100	13355	recent@tech		PHP warns admins of two critical flaws, emergency patches coming tomorrow
+1598936	bitcoin	1	480	0	2	34.0	176202	54	recent@bitcoin		Liquid and Lightning are back on BULL Wallet.
+1599371	bitcoin	1	474	0	6	17.5	296825	5666	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Bitcube - Home Bitcoin Miner with Touchscreen
+1599447	bitcoin	1	469	0	13	15.2	30782	26081	recent@bitcoin|top@bitcoin		Bitcoin Fiction for Sats — Andrew Westhead
+1599379	math	2	360	0	1	17.2	280679	23830	recent@AI|top@AI		AI Proved the Quasi-Riemann Hypothesis. What Happens Now?
+1599075	bitcoin	1	353	0	0	30.8	1497665	15	recent@bitcoin		Cost-Bounded Bitcoin Transaction Filtering Language
+1599158	bitcoin	1	325	0	4	26.7	1518571	38	recent@bitcoin		Electrum CLINK Plugin v.0.0.13 released
+1599412	AI	1	292	0	0	16.2	402772	22726	recent@AI|top@AI		AI will make it possible to design and build organisms from scratch
+1599506	meta	1	261	0	3	14.4	36151	1680	recent@meta|top@meta		What are you working on this week?
+1598961	tech	1	208	0	0	33.7	12309	3736	recent@privacy|recent@tech		Meta tries to scapegoat staff who downloaded torrents to spare execs
+1599014	Music	3	191	0	0	32.7	1010485	26	recent@devs		Terminal sampler in Rust
+1599086	devs	1	86	0	0	30.3	297791	7977	recent@devs		Announcing TypeScript 7.1 Beta - TypeScript
+1599184	bitcoin_beginners	1	72	0	0	25.8	1301409	78	recent@bitcoin_beginners		Not Yours Keys, Not Your Coins
+1599351	AI	1	68	0	0	18.1	296825	5666	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		No Hedge on Earth
+1599265	AI	1	67	0	0	21.5	182100	853	recent@AI|top@AI		AI influencers - 3 questions
+1599475	AI	1	56	0	0	14.8	402772	22726	recent@AI|top@AI		OpenAI's AI models disabled their own safety monitoring — and one lied about it
+1599920	AI	1	47	0	0	3.4	1532699	432	recent@AI|top@AI		Meta's Most Powerful Open AI Model Runs on a Mac. Well, Two Macs.
+1599617	AI	1	47	0	0	12.1	1575305	47	recent@AI|top@AI		GPT-5.6 found a PHP flaw so bad OpenAI looped in the White House to patch it
+1599468	AI	1	47	0	0	14.9	297791	7977	recent@AI|top@AI		Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck
+1599429	devs	1	36	0	1	15.6	297791	7977	recent@devs|top@devs		EU cybersecurity team says unpatched PHP sites may need to go offline
+1599340	AI	1	36	0	0	18.4	272410	2013	recent@AI|top@AI		Meta's Muse AI Agent Caught Leaking Users' Intimate Personal Information
+1599808	bitcoin_Mining	1	11	0	0	6.8	1532836	1440	recent@bitcoin_Mining|top@bitcoin_Mining		Blockparty #45 Rigly's
+1599708	bitcoin_Mining	1	11	0	0	9.8	280679	23830	recent@bitcoin_Mining|top@bitcoin_Mining		Controlflow Balancing Rules: Keep Your Mining Site Within Its Power Limit
+1599091	AI	1	11	0	0	30.1	1575305	47	recent@AI		doubleAI's agent beats a 1988 graph theory bound and ships the proof in Lean
+1599938	AI	1	0	0	0	2.7	297791	7977	recent@AI|top@AI		OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So
