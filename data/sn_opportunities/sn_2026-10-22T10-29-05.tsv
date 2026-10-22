@@ -1,0 +1,46 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1599913	news	2	1874	0	4	8.6	74100	13355	recent@devs|top@devs	HOT,SIGNAL	php, nodejs...and here comes Java!
+1599879	bitcoin	1	905	0	3	9.8	30782	26081	recent@bitcoin|top@bitcoin	SIGNAL	Business As Usual After Liquid Hack: Back - Bloomberg
+1599930	tech	1	671	0	0	8.2	1570149	21	recent@tech|top@tech	SIGNAL	I made a p2p app for sharing files through persistent tunnels with trusted peers
+1600015	math	2	432	0	0	0.9	1562189	212	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Miner Subsidy Crisis & Unit Bias: Why Bitcoin Needs a Transactional UoA
+1600000	bitcoin	1	300	0	0	2.6	12309	3739	recent@bitcoin|top@bitcoin	SIGNAL	EU Nears Market Securitization Reform in Bid to Unleash Billions
+1599838	AI	1	260	0	0	11.1	1575305	47	recent@AI|top@AI	SIGNAL	Linus Torvalds ships his first AI-assisted kernel patch and clocks a 23x speedup
+1599938	AI	1	146	0	0	7.8	297791	7977	recent@AI|top@AI	SIGNAL	OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So
+1600026	AI	1	125	0	0	0.3	12309	3739	recent@AI|top@AI	FRESH,SIGNAL	Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM
+1599321	news	2	5728	0	2	24.3	1599170	4	recent@bitcoin|recent@bitdevs	HOT	Bitcoin’s Missing Bit
+1599743	Geyser_community	3	2967	0	4	14.2	144357	4687	recent@bitcoin|top@bitcoin	HOT	A Home for Bitcoin Builders - PlebLab Guadalajara
+1599600	bitcoin	1	2252	0	13	17.6	74100	13355	recent@bitcoin|top@bitcoin	HOT	Here come the "blockchain not Bitcoin" guys again
+1599783	tech	1	1618	0	6	12.7	1	27747	recent@devs|top@devs|recent@tech	HOT	Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE
+1599443	tech	1	1449	0	5	20.3	934367	1122	recent@tech|top@tech	HOT	eMudhra's CA keys cracked in milliseconds
+1599500	AskSN	2	1376	0	5	19.5	724606	13615	recent@AI|top@AI	HOT,SELF_POST_OPP	Are Humans Still “the Ultimate Resource”? (HP, Alex Hammond)
+1599369	lightning	1	1056	0	2	22.6	440729	334	top@lightning	HOT	⚡️ Storm Report: Best posts about the Lightning Network on SN - issue: 972470
+1599451	AI	1	978	0	1	20.2	1	27747	recent@devs|top@devs|recent@tech		PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web
+1599698	devs	1	810	0	1	15.4	163128	3981	recent@devs|top@devs		🚨 Node.js Vulnerability — October 21, 2026 Security Releases
+1599739	bitcoin	1	783	0	7	14.3	1570149	21	recent@bitcoin|top@bitcoin		Are there any FROST-capable wallets that I can run on old phones?
+1599290	AI	1	756	0	0	25.6	12309	3739	recent@devs|recent@tech|recent@AI		DeepSeek opensources Inference Software
+1599092	math	2	587	0	1	35.1	9274	28801	recent@devs		The Mother of Software Engineering Margaret Hamilton
+1599790	AI	1	525	0	0	12.5	74100	13355	recent@nostr|top@nostr|recent@devs		Speaking Feather into existence - Gigi
+1599770	bitcoinplusplus	1	510	0	1	13.2	280679	23830	recent@bitcoinplusplus|top@bitcoinplusplus		Can Bitcoin Payments Survive the AI Onslaught? — Calle, joschisan, Elias Rohrer,
+1599371	bitcoin	1	478	0	6	22.6	296825	5666	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Bitcube - Home Bitcoin Miner with Touchscreen
+1599447	bitcoin	1	469	0	13	20.3	30782	26081	recent@bitcoin|top@bitcoin		Bitcoin Fiction for Sats — Andrew Westhead
+1599379	math	2	360	0	1	22.3	280679	23830	recent@AI|top@AI		AI Proved the Quasi-Riemann Hypothesis. What Happens Now?
+1599075	bitcoin	1	353	0	0	35.9	1497665	15	recent@bitcoin		Cost-Bounded Bitcoin Transaction Filtering Language
+1599158	bitcoin	1	325	0	4	31.8	1518571	38	recent@bitcoin		Electrum CLINK Plugin v.0.0.13 released
+1599412	AI	1	292	0	0	21.3	402772	22726	recent@AI|top@AI		AI will make it possible to design and build organisms from scratch
+1599506	meta	1	261	0	3	19.5	36151	1681	recent@meta|top@meta		What are you working on this week?
+1599687	AI	1	124	0	2	15.6	238412	374	recent@AI|top@AI		Getty Images Bankrupt
+1599920	AI	1	89	0	0	8.5	1532699	432	recent@AI|top@AI		Meta's Most Powerful Open AI Model Runs on a Mac. Well, Two Macs.
+1599086	devs	1	86	0	0	35.4	297791	7977	recent@devs		Announcing TypeScript 7.1 Beta - TypeScript
+1599184	bitcoin_beginners	1	72	0	0	30.9	1301409	78	recent@bitcoin_beginners		Not Yours Keys, Not Your Coins
+1599351	AI	1	68	0	0	23.2	296825	5666	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		No Hedge on Earth
+1599265	AI	1	67	0	0	26.6	182100	853	recent@AI		AI influencers - 3 questions
+1599475	AI	1	56	0	0	19.8	402772	22726	recent@AI|top@AI		OpenAI's AI models disabled their own safety monitoring — and one lied about it
+1599617	AI	1	47	0	0	17.2	1575305	47	recent@AI|top@AI		GPT-5.6 found a PHP flaw so bad OpenAI looped in the White House to patch it
+1599468	AI	1	47	0	0	19.9	297791	7977	recent@AI|top@AI		Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck
+1599429	devs	1	36	0	1	20.6	297791	7977	recent@devs|top@devs		EU cybersecurity team says unpatched PHP sites may need to go offline
+1599340	AI	1	36	0	0	23.4	272410	2014	recent@AI|top@AI		Meta's Muse AI Agent Caught Leaking Users' Intimate Personal Information
+1599808	bitcoin_Mining	1	11	0	0	11.8	1532836	1440	recent@bitcoin_Mining|top@bitcoin_Mining		Blockparty #45 Rigly's
+1599708	bitcoin_Mining	1	11	0	0	14.9	280679	23830	recent@bitcoin_Mining|top@bitcoin_Mining		Controlflow Balancing Rules: Keep Your Mining Site Within Its Power Limit
+1599091	AI	1	11	0	0	35.2	1575305	47	recent@AI		doubleAI's agent beats a 1988 graph theory bound and ships the proof in Lean
+1600003	bitcoin	1	0	0	1	1.5	13531	1747	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	What is CoinOS's "renew" feature
+1600006	privacy	1	0	0	0	1.3	1595070	11	recent@privacy|top@privacy	FRESH	A Subaddress Is Not a Separate Identity: Janus Outputs, Sweeps, Seed Boundary
